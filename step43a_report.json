@@ -1,6 +1,6 @@
 {
   "step": "43A",
-  "created_utc": "2026-10-24T13:32:56.621488+00:00",
+  "created_utc": "2026-10-24T13:42:11.394959+00:00",
   "model_scope": "2025-2026 only",
   "ridge_alpha": 10.0,
   "recency_half_life_seasons": 1.5,
@@ -24,13 +24,13 @@
       "is_calibrated": false,
       "games": 246,
       "brier_score": 0.1880004244046201,
-      "log_loss": 0.5544862156795252,
+      "log_loss": 0.554486215679525,
       "calibration_bins": [
         {
           "bin_lower": 0.1,
           "bin_upper": 0.2,
           "games": 5,
-          "mean_predicted_home_win_probability": 0.16997410061282617,
+          "mean_predicted_home_win_probability": 0.16997410061282622,
           "actual_home_win_rate": 0.0
         },
         {
@@ -44,14 +44,14 @@
           "bin_lower": 0.30000000000000004,
           "bin_upper": 0.4,
           "games": 30,
-          "mean_predicted_home_win_probability": 0.3585622547404546,
+          "mean_predicted_home_win_probability": 0.35856225474045467,
           "actual_home_win_rate": 0.23333333333333334
         },
         {
           "bin_lower": 0.4,
           "bin_upper": 0.5,
           "games": 37,
-          "mean_predicted_home_win_probability": 0.45868289113260663,
+          "mean_predicted_home_win_probability": 0.45868289113260674,
           "actual_home_win_rate": 0.2972972972972973
         },
         {
@@ -79,7 +79,7 @@
           "bin_lower": 0.8,
           "bin_upper": 0.9,
           "games": 18,
-          "mean_predicted_home_win_probability": 0.8529968427463938,
+          "mean_predicted_home_win_probability": 0.8529968427463936,
           "actual_home_win_rate": 0.8888888888888888
         },
         {

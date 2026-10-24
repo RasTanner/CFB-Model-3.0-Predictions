@@ -22,7 +22,7 @@
     },
     "platt_logistic": {
       "games": 206,
-      "brier_score": 0.1805271889009183,
+      "brier_score": 0.18052718890091835,
       "log_loss": 0.534234870372395,
       "accuracy": 0.7330097087378641
     },
