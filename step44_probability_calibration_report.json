@@ -1,0 +1,46 @@
+{
+  "step": "44",
+  "purpose": "Chronological win-probability calibration benchmark",
+  "input": "step43a_2025_chronological_validation.csv",
+  "output_detail": "step44_probability_calibration_predictions.csv",
+  "minimum_prior_calibration_games": 30,
+  "validation_games_total": 246,
+  "validation_date_groups": 23,
+  "scored_games_with_prior_history": 206,
+  "methods": {
+    "raw_sigmoid": {
+      "games": 206,
+      "brier_score": 0.18425302114855682,
+      "log_loss": 0.5466324178650762,
+      "accuracy": 0.7281553398058253
+    },
+    "historical_home_rate": {
+      "games": 206,
+      "brier_score": 0.25172043060975835,
+      "log_loss": 0.696901759911659,
+      "accuracy": 0.5533980582524272
+    },
+    "platt_logistic": {
+      "games": 206,
+      "brier_score": 0.1805271889009183,
+      "log_loss": 0.534234870372395,
+      "accuracy": 0.7330097087378641
+    },
+    "isotonic": {
+      "games": 206,
+      "brier_score": 0.17947382308704266,
+      "log_loss": 0.56406980906927,
+      "accuracy": 0.7330097087378641
+    }
+  },
+  "selected_method": "platt_logistic",
+  "production_predictions_changed": false,
+  "leakage_controls": [
+    "Calibration uses only earlier validation dates.",
+    "All games on the same date are evaluated together and cannot calibrate one another.",
+    "Metrics compare methods on the same eligible games.",
+    "No production predictions or model coefficients are changed."
+  ],
+  "interpretation": "Select a calibration method only if it improves out-of-sample Brier score and log loss consistently; this single chronological audit is evidence, not proof of future performance.",
+  "selection_note": "Provisional audit winner: lower Brier score and log loss than raw sigmoid on the same eligible games. Do not deploy without further season/week robustness checks."
+}
