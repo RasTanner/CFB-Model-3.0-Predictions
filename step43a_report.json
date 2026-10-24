@@ -1,0 +1,63 @@
+{
+  "step": "43A",
+  "created_utc": "2026-10-24T02:24:44.379992+00:00",
+  "model_scope": "2025-2026 only",
+  "ridge_alpha": 10.0,
+  "recency_half_life_seasons": 1.5,
+  "validation": {
+    "training_games": 361,
+    "validation_games": 246,
+    "first_validation_week": 11.0,
+    "margin": {
+      "games": 246,
+      "mae": 12.990842260683317,
+      "rmse": 16.304096033101455
+    },
+    "total": {
+      "games": 246,
+      "mae": 12.433309887800503,
+      "rmse": 15.458729602002313
+    },
+    "winner_accuracy": 0.7195121951219512
+  },
+  "production": {
+    "eligible_2025_completed_games": 607,
+    "eligible_2026_completed_games": 235,
+    "production_training_games": 842,
+    "eligible_upcoming_2026_games": 373,
+    "margin_features_used": [
+      "adj_off_epa",
+      "adj_def_epa",
+      "epaplay_off_pass",
+      "epaplay_off_rush",
+      "success_off",
+      "success_def",
+      "net_adj_epa"
+    ],
+    "total_features_used": [
+      "adj_off_epa",
+      "adj_def_epa",
+      "epaplay_off_pass",
+      "epaplay_off_rush",
+      "success_off",
+      "success_def",
+      "explosive_off",
+      "net_adj_epa"
+    ],
+    "margin_feature_count": 22,
+    "total_feature_count": 25
+  },
+  "warnings": [
+    "Only 2025-2026 seasons are used in production training.",
+    "Pregame eligibility depends on source flags and snapshot-week checks.",
+    "A strict prior-week flag does not independently prove that a data snapshot was publicly available before kickoff.",
+    "The displayed win probability is an uncalibrated heuristic, not a betting probability or spread-cover probability.",
+    "The chronological 2025 validation tests only eligible rows with complete final scores."
+  ],
+  "outputs": {
+    "all_predictions": "/home/runner/work/CFB-Model-3.0/CFB-Model-3.0/output/step43a_2026_predictions.csv",
+    "upcoming_predictions": "/home/runner/work/CFB-Model-3.0/CFB-Model-3.0/output/step43a_2026_upcoming_predictions.csv",
+    "2025_validation": "/home/runner/work/CFB-Model-3.0/CFB-Model-3.0/output/step43a_2025_chronological_validation.csv",
+    "report": "/home/runner/work/CFB-Model-3.0/CFB-Model-3.0/output/step43a_report.json"
+  }
+}
