@@ -1,6 +1,6 @@
 {
   "step": "43A",
-  "created_utc": "2026-10-24T02:40:24.915821+00:00",
+  "created_utc": "2026-10-24T06:38:12.833358+00:00",
   "model_scope": "2025-2026 only",
   "ridge_alpha": 10.0,
   "recency_half_life_seasons": 1.5,
@@ -18,7 +18,80 @@
       "mae": 12.433309887800503,
       "rmse": 15.458729602002313
     },
-    "winner_accuracy": 0.7195121951219512
+    "winner_accuracy": 0.7195121951219512,
+    "win_probability_audit": {
+      "method": "existing sigmoid heuristic: 1 / (1 + exp(-predicted_margin / 10))",
+      "is_calibrated": false,
+      "games": 246,
+      "brier_score": 0.1880004244046201,
+      "log_loss": 0.5544862156795252,
+      "calibration_bins": [
+        {
+          "bin_lower": 0.1,
+          "bin_upper": 0.2,
+          "games": 5,
+          "mean_predicted_home_win_probability": 0.16997410061282617,
+          "actual_home_win_rate": 0.0
+        },
+        {
+          "bin_lower": 0.2,
+          "bin_upper": 0.30000000000000004,
+          "games": 8,
+          "mean_predicted_home_win_probability": 0.2564495900141439,
+          "actual_home_win_rate": 0.25
+        },
+        {
+          "bin_lower": 0.30000000000000004,
+          "bin_upper": 0.4,
+          "games": 30,
+          "mean_predicted_home_win_probability": 0.3585622547404546,
+          "actual_home_win_rate": 0.23333333333333334
+        },
+        {
+          "bin_lower": 0.4,
+          "bin_upper": 0.5,
+          "games": 37,
+          "mean_predicted_home_win_probability": 0.45868289113260663,
+          "actual_home_win_rate": 0.2972972972972973
+        },
+        {
+          "bin_lower": 0.5,
+          "bin_upper": 0.6000000000000001,
+          "games": 46,
+          "mean_predicted_home_win_probability": 0.5618540984471144,
+          "actual_home_win_rate": 0.4782608695652174
+        },
+        {
+          "bin_lower": 0.6000000000000001,
+          "bin_upper": 0.7000000000000001,
+          "games": 47,
+          "mean_predicted_home_win_probability": 0.6531334119507566,
+          "actual_home_win_rate": 0.6808510638297872
+        },
+        {
+          "bin_lower": 0.7000000000000001,
+          "bin_upper": 0.8,
+          "games": 45,
+          "mean_predicted_home_win_probability": 0.7503058307776413,
+          "actual_home_win_rate": 0.8222222222222222
+        },
+        {
+          "bin_lower": 0.8,
+          "bin_upper": 0.9,
+          "games": 18,
+          "mean_predicted_home_win_probability": 0.8529968427463938,
+          "actual_home_win_rate": 0.8888888888888888
+        },
+        {
+          "bin_lower": 0.9,
+          "bin_upper": 1.0,
+          "games": 10,
+          "mean_predicted_home_win_probability": 0.9279036076033709,
+          "actual_home_win_rate": 1.0
+        }
+      ],
+      "warning": "Chronological holdout diagnostics only; not a fitted or certified calibrated probability."
+    }
   },
   "production": {
     "eligible_2025_completed_games": 607,
