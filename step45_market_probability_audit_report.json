@@ -1,0 +1,26 @@
+{
+  "step": "45",
+  "purpose": "Chronological market spread-cover and totals probability audit",
+  "input": "step43a_2025_chronological_validation.csv",
+  "production_predictions_changed": false,
+  "market_data_policy": "Only explicit market-line columns are accepted; model predictions are never substituted for sportsbook lines.",
+  "columns_detected": {
+    "spread_line_column": null,
+    "total_line_column": null
+  },
+  "validation_games_in_file": 246,
+  "spread_market_games": 0,
+  "total_market_games": 0,
+  "spread_probability_metrics": null,
+  "total_probability_metrics": null,
+  "warnings": [
+    "No recognized historical home-spread line. Cover probabilities and spread ROI cannot be evaluated without genuine game-matched sportsbook lines.",
+    "No recognized historical game total line. Over/under probabilities and total ROI cannot be evaluated without genuine game-matched sportsbook lines."
+  ],
+  "status": "blocked_missing_historical_market_lines",
+  "next_required_data": [
+    "Game-matched historical closing spread and total lines",
+    "Stable game identifier or team/date matchup key",
+    "Line source and timestamp, ideally closing timestamp"
+  ]
+}
