@@ -10,9 +10,9 @@
   "methods": {
     "raw_sigmoid": {
       "games": 206,
-      "brier_score": 0.18389109555016117,
-      "log_loss": 0.5459944968186493,
-      "accuracy": 0.7281553398058253
+      "brier_score": 0.18368099724864495,
+      "log_loss": 0.5483589495465567,
+      "accuracy": 0.7330097087378641
     },
     "historical_home_rate": {
       "games": 206,
@@ -22,18 +22,18 @@
     },
     "platt_logistic": {
       "games": 206,
-      "brier_score": 0.18019187941459547,
-      "log_loss": 0.5335087496766363,
-      "accuracy": 0.7281553398058253
+      "brier_score": 0.18414450461809803,
+      "log_loss": 0.5497601674120993,
+      "accuracy": 0.7330097087378641
     },
     "isotonic": {
       "games": 206,
-      "brier_score": 0.17674147891165715,
-      "log_loss": 0.5561053038926842,
-      "accuracy": 0.7524271844660194
+      "brier_score": 0.18498867765933594,
+      "log_loss": 0.6019330719007104,
+      "accuracy": 0.7281553398058253
     }
   },
-  "selected_method": "platt_logistic",
+  "selected_method": null,
   "production_predictions_changed": false,
   "leakage_controls": [
     "Calibration uses only earlier validation dates.",
@@ -42,5 +42,5 @@
     "No production predictions or model coefficients are changed."
   ],
   "interpretation": "Select a calibration method only if it improves out-of-sample Brier score and log loss consistently; this single chronological audit is evidence, not proof of future performance.",
-  "selection_note": "Provisional audit winner: lower Brier score and log loss than raw sigmoid on the same eligible games. Do not deploy without further season/week robustness checks."
+  "selection_note": "No alternative beat raw sigmoid on both Brier score and log loss; retain raw probabilities pending more data or further testing."
 }
