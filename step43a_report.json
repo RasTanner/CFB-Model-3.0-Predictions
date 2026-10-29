@@ -1,6 +1,6 @@
 {
   "step": "43A",
-  "created_utc": "2026-10-29T01:48:07.026008+00:00",
+  "created_utc": "2026-10-29T10:37:54.185915+00:00",
   "model_scope": "2025-2026 only",
   "ridge_alpha": 10.0,
   "recency_half_life_seasons": 1.5,
@@ -10,19 +10,19 @@
     "first_validation_week": 11.0,
     "margin": {
       "games": 246,
-      "mae": 12.887288323917437,
-      "rmse": 16.254348833429944
+      "mae": 12.91120005176858,
+      "rmse": 16.278412333279785
     },
     "total": {
       "games": 246,
-      "mae": 12.321731921808627,
-      "rmse": 15.33337040625065
+      "mae": 12.292298426412659,
+      "rmse": 15.281039981798555
     },
-    "winner_accuracy": 0.7398373983739838
+    "winner_accuracy": 0.7235772357723578
   },
   "talent_coaching_enrichment": {
     "talent_rows": 272,
-    "coach_rows": 598,
+    "coach_rows": 741,
     "talent_match_rate_2025": 0.9719934102141681,
     "talent_match_rate_2026": 1.0,
     "coach_match_rate_2025": 0.9719934102141681,
