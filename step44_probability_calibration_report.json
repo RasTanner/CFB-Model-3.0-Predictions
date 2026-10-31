@@ -22,13 +22,13 @@
     },
     "platt_logistic": {
       "games": 206,
-      "brier_score": 0.1854221369874632,
+      "brier_score": 0.18542213698746324,
       "log_loss": 0.5535177218849396,
       "accuracy": 0.7330097087378641
     },
     "isotonic": {
       "games": 206,
-      "brier_score": 0.186997587658186,
+      "brier_score": 0.18699758765818597,
       "log_loss": 0.6093559338286773,
       "accuracy": 0.7475728155339806
     }
