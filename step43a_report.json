@@ -1,6 +1,6 @@
 {
   "step": "43A",
-  "created_utc": "2026-11-06T10:53:57.638551+00:00",
+  "created_utc": "2026-11-07T10:32:28.687621+00:00",
   "model_scope": "2025-2026 only",
   "ridge_alpha": 10.0,
   "recency_half_life_seasons": 1.5,
@@ -35,9 +35,9 @@
   },
   "production": {
     "eligible_2025_completed_games": 607,
-    "eligible_2026_completed_games": 354,
-    "production_training_games": 961,
-    "eligible_upcoming_2026_games": 254,
+    "eligible_2026_completed_games": 359,
+    "production_training_games": 966,
+    "eligible_upcoming_2026_games": 249,
     "margin_features_used": [
       "adj_off_epa",
       "adj_def_epa",
