@@ -1,6 +1,6 @@
 {
   "model": "CFB Model 3.0",
-  "generated_at_utc": "2026-11-09T20:23:43.251421+00:00",
+  "generated_at_utc": "2026-11-10T17:28:28.077540+00:00",
   "source_file": "step43a_2026_upcoming_predictions.csv",
   "game_count": 199,
   "columns": [
@@ -117,9 +117,9 @@
       "target_margin": "",
       "target_total": "",
       "step43a_predicted_home_margin": "-8.4239653521198",
-      "step43a_predicted_total": "55.26397400824221",
-      "step43a_predicted_home_score": "23.420004328061204",
-      "step43a_predicted_away_score": "31.843969680181004",
+      "step43a_predicted_total": "55.2639740082422",
+      "step43a_predicted_home_score": "23.4200043280612",
+      "step43a_predicted_away_score": "31.843969680181",
       "step43a_predicted_home_win_probability_uncalibrated": "0.30103028617776784"
     },
     {
@@ -175,11 +175,11 @@
       "away_coach_prior_win_pct": "0.22916666666666666",
       "target_margin": "",
       "target_total": "",
-      "step43a_predicted_home_margin": "12.143151166080262",
-      "step43a_predicted_total": "51.520818118524275",
-      "step43a_predicted_home_score": "31.831984642302267",
-      "step43a_predicted_away_score": "19.68883347622201",
-      "step43a_predicted_home_win_probability_uncalibrated": "0.7710615685312755"
+      "step43a_predicted_home_margin": "12.143151166080258",
+      "step43a_predicted_total": "51.52081811852427",
+      "step43a_predicted_home_score": "31.831984642302263",
+      "step43a_predicted_away_score": "19.688833476222005",
+      "step43a_predicted_home_win_probability_uncalibrated": "0.7710615685312754"
     },
     {
       "season": "2026",
@@ -234,11 +234,11 @@
       "away_coach_prior_win_pct": "0.7407407407407407",
       "target_margin": "",
       "target_total": "",
-      "step43a_predicted_home_margin": "1.0885836953331993",
-      "step43a_predicted_total": "54.6297701002201",
-      "step43a_predicted_home_score": "27.85917689777665",
-      "step43a_predicted_away_score": "26.77059320244345",
-      "step43a_predicted_home_win_probability_uncalibrated": "0.5271877494541866"
+      "step43a_predicted_home_margin": "1.0885836953332104",
+      "step43a_predicted_total": "54.62977010022011",
+      "step43a_predicted_home_score": "27.85917689777666",
+      "step43a_predicted_away_score": "26.770593202443447",
+      "step43a_predicted_home_win_probability_uncalibrated": "0.5271877494541868"
     },
     {
       "season": "2026",
@@ -293,9 +293,9 @@
       "away_coach_prior_win_pct": "0.48",
       "target_margin": "",
       "target_total": "",
-      "step43a_predicted_home_margin": "0.7941673886710814",
-      "step43a_predicted_total": "55.117171517466424",
-      "step43a_predicted_home_score": "27.955669453068754",
+      "step43a_predicted_home_margin": "0.79416738867108",
+      "step43a_predicted_total": "55.11717151746642",
+      "step43a_predicted_home_score": "27.955669453068747",
       "step43a_predicted_away_score": "27.16150206439767",
       "step43a_predicted_home_win_probability_uncalibrated": "0.5198437562349428"
     },
@@ -352,11 +352,11 @@
       "away_coach_prior_win_pct": "",
       "target_margin": "",
       "target_total": "",
-      "step43a_predicted_home_margin": "8.65087696011398",
-      "step43a_predicted_total": "49.91306346613366",
+      "step43a_predicted_home_margin": "8.650876960113967",
+      "step43a_predicted_total": "49.91306346613367",
       "step43a_predicted_home_score": "29.28197021312382",
-      "step43a_predicted_away_score": "20.631093253009837",
-      "step43a_predicted_home_win_probability_uncalibrated": "0.7037225226934445"
+      "step43a_predicted_away_score": "20.63109325300985",
+      "step43a_predicted_home_win_probability_uncalibrated": "0.7037225226934442"
     },
     {
       "season": "2026",
@@ -411,11 +411,11 @@
       "away_coach_prior_win_pct": "0.125",
       "target_margin": "",
       "target_total": "",
-      "step43a_predicted_home_margin": "16.36928696606303",
-      "step43a_predicted_total": "56.12249301767837",
+      "step43a_predicted_home_margin": "16.369286966063026",
+      "step43a_predicted_total": "56.122493017678366",
       "step43a_predicted_home_score": "36.2458899918707",
-      "step43a_predicted_away_score": "19.876603025807672",
-      "step43a_predicted_home_win_probability_uncalibrated": "0.8371165912976795"
+      "step43a_predicted_away_score": "19.87660302580767",
+      "step43a_predicted_home_win_probability_uncalibrated": "0.8371165912976793"
     },
     {
       "season": "2026",
@@ -470,11 +470,11 @@
       "away_coach_prior_win_pct": "0.6923076923076923",
       "target_margin": "",
       "target_total": "",
-      "step43a_predicted_home_margin": "-5.280658582778481",
+      "step43a_predicted_home_margin": "-5.280658582778478",
       "step43a_predicted_total": "50.20735918407249",
       "step43a_predicted_home_score": "22.463350300647004",
       "step43a_predicted_away_score": "27.744008883425483",
-      "step43a_predicted_home_win_probability_uncalibrated": "0.37096810874477154"
+      "step43a_predicted_home_win_probability_uncalibrated": "0.3709681087447716"
     },
     {
       "season": "2026",
@@ -529,11 +529,11 @@
       "away_coach_prior_win_pct": "0.5283018867924528",
       "target_margin": "",
       "target_total": "",
-      "step43a_predicted_home_margin": "-10.07808677931125",
+      "step43a_predicted_home_margin": "-10.078086779311253",
       "step43a_predicted_total": "52.98829844431702",
-      "step43a_predicted_home_score": "21.455105832502884",
-      "step43a_predicted_away_score": "31.533192611814133",
-      "step43a_predicted_home_win_probability_uncalibrated": "0.2674089149361543"
+      "step43a_predicted_home_score": "21.45510583250288",
+      "step43a_predicted_away_score": "31.533192611814137",
+      "step43a_predicted_home_win_probability_uncalibrated": "0.2674089149361542"
     },
     {
       "season": "2026",
@@ -588,11 +588,11 @@
       "away_coach_prior_win_pct": "0.5882352941176471",
       "target_margin": "",
       "target_total": "",
-      "step43a_predicted_home_margin": "1.082039367587956",
+      "step43a_predicted_home_margin": "1.082039367587948",
       "step43a_predicted_total": "54.492086965877895",
-      "step43a_predicted_home_score": "27.787063166732924",
-      "step43a_predicted_away_score": "26.70502379914497",
-      "step43a_predicted_home_win_probability_uncalibrated": "0.527024622103434"
+      "step43a_predicted_home_score": "27.78706316673292",
+      "step43a_predicted_away_score": "26.705023799144975",
+      "step43a_predicted_home_win_probability_uncalibrated": "0.5270246221034337"
     },
     {
       "season": "2026",
@@ -706,11 +706,11 @@
       "away_coach_prior_win_pct": "0.52",
       "target_margin": "",
       "target_total": "",
-      "step43a_predicted_home_margin": "-5.22758840973104",
+      "step43a_predicted_home_margin": "-5.227588409731047",
       "step43a_predicted_total": "50.824122639338974",
-      "step43a_predicted_home_score": "22.798267114803966",
-      "step43a_predicted_away_score": "28.025855524535007",
-      "step43a_predicted_home_win_probability_uncalibrated": "0.3722073510176892"
+      "step43a_predicted_home_score": "22.798267114803963",
+      "step43a_predicted_away_score": "28.02585552453501",
+      "step43a_predicted_home_win_probability_uncalibrated": "0.37220735101768904"
     },
     {
       "season": "2026",
@@ -765,10 +765,10 @@
       "away_coach_prior_win_pct": "0.49019607843137253",
       "target_margin": "",
       "target_total": "",
-      "step43a_predicted_home_margin": "1.9851707454488818",
+      "step43a_predicted_home_margin": "1.9851707454488792",
       "step43a_predicted_total": "48.12932604306948",
-      "step43a_predicted_home_score": "25.057248394259183",
-      "step43a_predicted_away_score": "23.0720776488103",
+      "step43a_predicted_home_score": "25.05724839425918",
+      "step43a_predicted_away_score": "23.072077648810303",
       "step43a_predicted_home_win_probability_uncalibrated": "0.5494669216265791"
     },
     {
@@ -824,7 +824,7 @@
       "away_coach_prior_win_pct": "0.6792452830188679",
       "target_margin": "",
       "target_total": "",
-      "step43a_predicted_home_margin": "-4.420179132347643",
+      "step43a_predicted_home_margin": "-4.420179132347642",
       "step43a_predicted_total": "51.947560315637226",
       "step43a_predicted_home_score": "23.763690591644792",
       "step43a_predicted_away_score": "28.183869723992434",
@@ -883,11 +883,11 @@
       "away_coach_prior_win_pct": "0.7307692307692307",
       "target_margin": "",
       "target_total": "",
-      "step43a_predicted_home_margin": "-2.4327702318452724",
-      "step43a_predicted_total": "43.65697130990339",
-      "step43a_predicted_home_score": "20.612100539029058",
-      "step43a_predicted_away_score": "23.044870770874333",
-      "step43a_predicted_home_win_probability_uncalibrated": "0.4394789386028828"
+      "step43a_predicted_home_margin": "-2.432770231845277",
+      "step43a_predicted_total": "43.6569713099034",
+      "step43a_predicted_home_score": "20.61210053902906",
+      "step43a_predicted_away_score": "23.044870770874336",
+      "step43a_predicted_home_win_probability_uncalibrated": "0.4394789386028826"
     },
     {
       "season": "2026",
@@ -942,11 +942,11 @@
       "away_coach_prior_win_pct": "0.2708333333333333",
       "target_margin": "",
       "target_total": "",
-      "step43a_predicted_home_margin": "12.69119778292017",
-      "step43a_predicted_total": "59.268812159858776",
-      "step43a_predicted_home_score": "35.98000497138948",
-      "step43a_predicted_away_score": "23.288807188469303",
-      "step43a_predicted_home_win_probability_uncalibrated": "0.7805920312362724"
+      "step43a_predicted_home_margin": "12.69119778292016",
+      "step43a_predicted_total": "59.26881215985876",
+      "step43a_predicted_home_score": "35.98000497138946",
+      "step43a_predicted_away_score": "23.2888071884693",
+      "step43a_predicted_home_win_probability_uncalibrated": "0.7805920312362721"
     },
     {
       "season": "2026",
@@ -1002,9 +1002,9 @@
       "target_margin": "",
       "target_total": "",
       "step43a_predicted_home_margin": "-1.9546601450160006",
-      "step43a_predicted_total": "50.386415064100674",
-      "step43a_predicted_home_score": "24.215877459542337",
-      "step43a_predicted_away_score": "26.170537604558337",
+      "step43a_predicted_total": "50.38641506410068",
+      "step43a_predicted_home_score": "24.21587745954234",
+      "step43a_predicted_away_score": "26.17053760455834",
       "step43a_predicted_home_win_probability_uncalibrated": "0.4512884909383213"
     },
     {
@@ -1061,9 +1061,9 @@
       "target_margin": "",
       "target_total": "",
       "step43a_predicted_home_margin": "13.256712126148667",
-      "step43a_predicted_total": "49.14259741258634",
+      "step43a_predicted_total": "49.14259741258635",
       "step43a_predicted_home_score": "31.199654769367505",
-      "step43a_predicted_away_score": "17.942942643218835",
+      "step43a_predicted_away_score": "17.942942643218842",
       "step43a_predicted_home_win_probability_uncalibrated": "0.7901237011068633"
     },
     {
@@ -1120,9 +1120,9 @@
       "target_margin": "",
       "target_total": "",
       "step43a_predicted_home_margin": "11.376632117379437",
-      "step43a_predicted_total": "49.94154829634582",
-      "step43a_predicted_home_score": "30.65909020686263",
-      "step43a_predicted_away_score": "19.282458089483193",
+      "step43a_predicted_total": "49.94154829634583",
+      "step43a_predicted_home_score": "30.659090206862633",
+      "step43a_predicted_away_score": "19.282458089483196",
       "step43a_predicted_home_win_probability_uncalibrated": "0.7572503435643438"
     },
     {
@@ -1178,11 +1178,11 @@
       "away_coach_prior_win_pct": "0.48",
       "target_margin": "",
       "target_total": "",
-      "step43a_predicted_home_margin": "2.1580467748714103",
+      "step43a_predicted_home_margin": "2.1580467748714045",
       "step43a_predicted_total": "55.42675422730208",
-      "step43a_predicted_home_score": "28.792400501086743",
-      "step43a_predicted_away_score": "26.634353726215334",
-      "step43a_predicted_home_win_probability_uncalibrated": "0.5537427569746712"
+      "step43a_predicted_home_score": "28.79240050108674",
+      "step43a_predicted_away_score": "26.634353726215338",
+      "step43a_predicted_home_win_probability_uncalibrated": "0.553742756974671"
     },
     {
       "season": "2026",
@@ -1237,7 +1237,7 @@
       "away_coach_prior_win_pct": "0.660377358490566",
       "target_margin": "",
       "target_total": "",
-      "step43a_predicted_home_margin": "2.62087376007917",
+      "step43a_predicted_home_margin": "2.6208737600791716",
       "step43a_predicted_total": "55.103110036497334",
       "step43a_predicted_home_score": "28.861991898288252",
       "step43a_predicted_away_score": "26.24111813820908",
@@ -1296,10 +1296,10 @@
       "away_coach_prior_win_pct": "0.7777777777777778",
       "target_margin": "",
       "target_total": "",
-      "step43a_predicted_home_margin": "0.8324454714536897",
-      "step43a_predicted_total": "44.55132223496758",
-      "step43a_predicted_home_score": "22.691883853210634",
-      "step43a_predicted_away_score": "21.859438381756945",
+      "step43a_predicted_home_margin": "0.832445471453688",
+      "step43a_predicted_total": "44.551322234967586",
+      "step43a_predicted_home_score": "22.691883853210637",
+      "step43a_predicted_away_score": "21.85943838175695",
       "step43a_predicted_home_win_probability_uncalibrated": "0.5207991272759183"
     },
     {
@@ -1355,11 +1355,11 @@
       "away_coach_prior_win_pct": "0.7678571428571429",
       "target_margin": "",
       "target_total": "",
-      "step43a_predicted_home_margin": "6.059905029933825",
+      "step43a_predicted_home_margin": "6.059905029933828",
       "step43a_predicted_total": "43.55920196948374",
-      "step43a_predicted_home_score": "24.80955349970878",
-      "step43a_predicted_away_score": "18.749648469774957",
-      "step43a_predicted_home_win_probability_uncalibrated": "0.6470256399896949"
+      "step43a_predicted_home_score": "24.809553499708784",
+      "step43a_predicted_away_score": "18.749648469774954",
+      "step43a_predicted_home_win_probability_uncalibrated": "0.647025639989695"
     },
     {
       "season": "2026",
@@ -1414,11 +1414,11 @@
       "away_coach_prior_win_pct": "0.6538461538461539",
       "target_margin": "",
       "target_total": "",
-      "step43a_predicted_home_margin": "5.862836594207362",
-      "step43a_predicted_total": "45.495327120027426",
-      "step43a_predicted_home_score": "25.679081857117396",
-      "step43a_predicted_away_score": "19.81624526291003",
-      "step43a_predicted_home_win_probability_uncalibrated": "0.6425119910237257"
+      "step43a_predicted_home_margin": "5.862836594207365",
+      "step43a_predicted_total": "45.49532712002743",
+      "step43a_predicted_home_score": "25.6790818571174",
+      "step43a_predicted_away_score": "19.816245262910034",
+      "step43a_predicted_home_win_probability_uncalibrated": "0.6425119910237258"
     },
     {
       "season": "2026",
@@ -1473,11 +1473,11 @@
       "away_coach_prior_win_pct": "0.46",
       "target_margin": "",
       "target_total": "",
-      "step43a_predicted_home_margin": "5.684666515899858",
+      "step43a_predicted_home_margin": "5.684666515899847",
       "step43a_predicted_total": "54.107742338269425",
-      "step43a_predicted_home_score": "29.89620442708464",
-      "step43a_predicted_away_score": "24.211537911184784",
-      "step43a_predicted_home_win_probability_uncalibrated": "0.6384092877773444"
+      "step43a_predicted_home_score": "29.896204427084637",
+      "step43a_predicted_away_score": "24.211537911184788",
+      "step43a_predicted_home_win_probability_uncalibrated": "0.6384092877773442"
     },
     {
       "season": "2026",
@@ -1532,10 +1532,10 @@
       "away_coach_prior_win_pct": "0.5",
       "target_margin": "",
       "target_total": "",
-      "step43a_predicted_home_margin": "0.6418638729335298",
-      "step43a_predicted_total": "59.56963753290986",
-      "step43a_predicted_home_score": "30.105750702921693",
-      "step43a_predicted_away_score": "29.463886829988166",
+      "step43a_predicted_home_margin": "0.6418638729335271",
+      "step43a_predicted_total": "59.56963753290985",
+      "step43a_predicted_home_score": "30.10575070292169",
+      "step43a_predicted_away_score": "29.463886829988162",
       "step43a_predicted_home_win_probability_uncalibrated": "0.5160410899045421"
     },
     {
@@ -1591,11 +1591,11 @@
       "away_coach_prior_win_pct": "0.46",
       "target_margin": "",
       "target_total": "",
-      "step43a_predicted_home_margin": "-5.454863394958884",
-      "step43a_predicted_total": "47.2605183014342",
-      "step43a_predicted_home_score": "20.90282745323766",
+      "step43a_predicted_home_margin": "-5.454863394958893",
+      "step43a_predicted_total": "47.260518301434196",
+      "step43a_predicted_home_score": "20.902827453237652",
       "step43a_predicted_away_score": "26.357690848196544",
-      "step43a_predicted_home_win_probability_uncalibrated": "0.36691224535078387"
+      "step43a_predicted_home_win_probability_uncalibrated": "0.3669122453507837"
     },
     {
       "season": "2026",
@@ -1650,10 +1650,10 @@
       "away_coach_prior_win_pct": "0.4",
       "target_margin": "",
       "target_total": "",
-      "step43a_predicted_home_margin": "18.77071732204695",
+      "step43a_predicted_home_margin": "18.77071732204694",
       "step43a_predicted_total": "55.477999307380145",
       "step43a_predicted_home_score": "37.12435831471355",
-      "step43a_predicted_away_score": "18.353640992666598",
+      "step43a_predicted_away_score": "18.3536409926666",
       "step43a_predicted_home_win_probability_uncalibrated": "0.867274417373051"
     },
     {
@@ -1709,11 +1709,11 @@
       "away_coach_prior_win_pct": "0.5098039215686274",
       "target_margin": "",
       "target_total": "",
-      "step43a_predicted_home_margin": "1.180702711185139",
+      "step43a_predicted_home_margin": "1.1807027111851336",
       "step43a_predicted_total": "55.35797828176483",
-      "step43a_predicted_home_score": "28.269340496474985",
-      "step43a_predicted_away_score": "27.088637785289844",
-      "step43a_predicted_home_win_probability_uncalibrated": "0.5294833244927954"
+      "step43a_predicted_home_score": "28.26934049647498",
+      "step43a_predicted_away_score": "27.088637785289848",
+      "step43a_predicted_home_win_probability_uncalibrated": "0.5294833244927953"
     },
     {
       "season": "2026",
@@ -1768,11 +1768,11 @@
       "away_coach_prior_win_pct": "0.7843137254901961",
       "target_margin": "",
       "target_total": "",
-      "step43a_predicted_home_margin": "-5.635738640274506",
+      "step43a_predicted_home_margin": "-5.635738640274496",
       "step43a_predicted_total": "54.677365714048456",
-      "step43a_predicted_home_score": "24.520813536886976",
-      "step43a_predicted_away_score": "30.15655217716148",
-      "step43a_predicted_home_win_probability_uncalibrated": "0.3627209404852967"
+      "step43a_predicted_home_score": "24.52081353688698",
+      "step43a_predicted_away_score": "30.156552177161476",
+      "step43a_predicted_home_win_probability_uncalibrated": "0.3627209404852969"
     },
     {
       "season": "2026",
@@ -1827,11 +1827,11 @@
       "away_coach_prior_win_pct": "0.660377358490566",
       "target_margin": "",
       "target_total": "",
-      "step43a_predicted_home_margin": "12.969943280928128",
+      "step43a_predicted_home_margin": "12.969943280928135",
       "step43a_predicted_total": "51.48835173221916",
-      "step43a_predicted_home_score": "32.22914750657364",
-      "step43a_predicted_away_score": "19.259204225645515",
-      "step43a_predicted_home_win_probability_uncalibrated": "0.7853286988015648"
+      "step43a_predicted_home_score": "32.229147506573646",
+      "step43a_predicted_away_score": "19.25920422564551",
+      "step43a_predicted_home_win_probability_uncalibrated": "0.7853286988015649"
     },
     {
       "season": "2026",
@@ -1886,11 +1886,11 @@
       "away_coach_prior_win_pct": "0.42857142857142855",
       "target_margin": "",
       "target_total": "",
-      "step43a_predicted_home_margin": "3.735417103562664",
-      "step43a_predicted_total": "52.55595414161073",
-      "step43a_predicted_home_score": "28.145685622586697",
-      "step43a_predicted_away_score": "24.41026851902403",
-      "step43a_predicted_home_win_probability_uncalibrated": "0.5923145025021079"
+      "step43a_predicted_home_margin": "3.735417103562655",
+      "step43a_predicted_total": "52.55595414161072",
+      "step43a_predicted_home_score": "28.145685622586686",
+      "step43a_predicted_away_score": "24.410268519024033",
+      "step43a_predicted_home_win_probability_uncalibrated": "0.5923145025021077"
     },
     {
       "season": "2026",
@@ -1945,11 +1945,11 @@
       "away_coach_prior_win_pct": "0.5",
       "target_margin": "",
       "target_total": "",
-      "step43a_predicted_home_margin": "2.5127779329175683",
+      "step43a_predicted_home_margin": "2.512777932917562",
       "step43a_predicted_total": "59.78365873043452",
       "step43a_predicted_home_score": "31.14821833167604",
       "step43a_predicted_away_score": "28.635440398758476",
-      "step43a_predicted_home_win_probability_uncalibrated": "0.562490984337497"
+      "step43a_predicted_home_win_probability_uncalibrated": "0.5624909843374969"
     },
     {
       "season": "2026",
@@ -2004,9 +2004,9 @@
       "away_coach_prior_win_pct": "0.5490196078431373",
       "target_margin": "",
       "target_total": "",
-      "step43a_predicted_home_margin": "11.791476524078195",
-      "step43a_predicted_total": "47.24489115533068",
-      "step43a_predicted_home_score": "29.518183839704434",
+      "step43a_predicted_home_margin": "11.791476524078199",
+      "step43a_predicted_total": "47.244891155330684",
+      "step43a_predicted_home_score": "29.51818383970444",
       "step43a_predicted_away_score": "17.726707315626243",
       "step43a_predicted_home_win_probability_uncalibrated": "0.7647945147907504"
     },
@@ -2063,11 +2063,11 @@
       "away_coach_prior_win_pct": "0.46",
       "target_margin": "",
       "target_total": "",
-      "step43a_predicted_home_margin": "-7.033192431053627",
+      "step43a_predicted_home_margin": "-7.033192431053634",
       "step43a_predicted_total": "55.584386081939826",
-      "step43a_predicted_home_score": "24.2755968254431",
-      "step43a_predicted_away_score": "31.308789256496727",
-      "step43a_predicted_home_win_probability_uncalibrated": "0.3310767201826998"
+      "step43a_predicted_home_score": "24.275596825443095",
+      "step43a_predicted_away_score": "31.30878925649673",
+      "step43a_predicted_home_win_probability_uncalibrated": "0.3310767201826996"
     },
     {
       "season": "2026",
@@ -2122,11 +2122,11 @@
       "away_coach_prior_win_pct": "0.7818181818181819",
       "target_margin": "",
       "target_total": "",
-      "step43a_predicted_home_margin": "-16.831684848304455",
+      "step43a_predicted_home_margin": "-16.831684848304462",
       "step43a_predicted_total": "51.19885774141567",
-      "step43a_predicted_home_score": "17.18358644655561",
-      "step43a_predicted_away_score": "34.015271294860064",
-      "step43a_predicted_home_win_probability_uncalibrated": "0.15667636497113788"
+      "step43a_predicted_home_score": "17.183586446555605",
+      "step43a_predicted_away_score": "34.01527129486007",
+      "step43a_predicted_home_win_probability_uncalibrated": "0.1566763649711378"
     },
     {
       "season": "2026",
@@ -2181,11 +2181,11 @@
       "away_coach_prior_win_pct": "0.47058823529411764",
       "target_margin": "",
       "target_total": "",
-      "step43a_predicted_home_margin": "1.7966735608727389",
+      "step43a_predicted_home_margin": "1.7966735608727369",
       "step43a_predicted_total": "55.764599465274294",
       "step43a_predicted_home_score": "28.780636513073517",
       "step43a_predicted_away_score": "26.983962952200777",
-      "step43a_predicted_home_win_probability_uncalibrated": "0.5447964001477462"
+      "step43a_predicted_home_win_probability_uncalibrated": "0.5447964001477461"
     },
     {
       "season": "2026",
@@ -2299,11 +2299,11 @@
       "away_coach_prior_win_pct": "0.3673469387755102",
       "target_margin": "",
       "target_total": "",
-      "step43a_predicted_home_margin": "1.0573106606721594",
-      "step43a_predicted_total": "55.78797818823423",
-      "step43a_predicted_home_score": "28.422644424453193",
-      "step43a_predicted_away_score": "27.365333763781035",
-      "step43a_predicted_home_win_probability_uncalibrated": "0.5264081695602892"
+      "step43a_predicted_home_margin": "1.0573106606721603",
+      "step43a_predicted_total": "55.78797818823421",
+      "step43a_predicted_home_score": "28.422644424453186",
+      "step43a_predicted_away_score": "27.365333763781027",
+      "step43a_predicted_home_win_probability_uncalibrated": "0.5264081695602894"
     },
     {
       "season": "2026",
@@ -2358,11 +2358,11 @@
       "away_coach_prior_win_pct": "0.7678571428571429",
       "target_margin": "",
       "target_total": "",
-      "step43a_predicted_home_margin": "-1.8348964071477818",
+      "step43a_predicted_home_margin": "-1.8348964071477756",
       "step43a_predicted_total": "54.72405641008105",
-      "step43a_predicted_home_score": "26.444580001466633",
-      "step43a_predicted_away_score": "28.279476408614414",
-      "step43a_predicted_home_win_probability_uncalibrated": "0.4542558623705229"
+      "step43a_predicted_home_score": "26.444580001466637",
+      "step43a_predicted_away_score": "28.27947640861441",
+      "step43a_predicted_home_win_probability_uncalibrated": "0.45425586237052307"
     },
     {
       "season": "2026",
@@ -2476,10 +2476,10 @@
       "away_coach_prior_win_pct": "0.46153846153846156",
       "target_margin": "",
       "target_total": "",
-      "step43a_predicted_home_margin": "2.148385389584026",
-      "step43a_predicted_total": "54.02414134611361",
-      "step43a_predicted_home_score": "28.08626336784882",
-      "step43a_predicted_away_score": "25.93787797826479",
+      "step43a_predicted_home_margin": "2.1483853895840275",
+      "step43a_predicted_total": "54.024141346113616",
+      "step43a_predicted_home_score": "28.086263367848822",
+      "step43a_predicted_away_score": "25.937877978264794",
       "step43a_predicted_home_win_probability_uncalibrated": "0.5535040004464995"
     },
     {
@@ -2535,7 +2535,7 @@
       "away_coach_prior_win_pct": "0.3877551020408163",
       "target_margin": "",
       "target_total": "",
-      "step43a_predicted_home_margin": "2.4035416293601344",
+      "step43a_predicted_home_margin": "2.403541629360135",
       "step43a_predicted_total": "52.5634653827516",
       "step43a_predicted_home_score": "27.483503506055868",
       "step43a_predicted_away_score": "25.079961876695734",
@@ -2594,11 +2594,11 @@
       "away_coach_prior_win_pct": "0.5192307692307693",
       "target_margin": "",
       "target_total": "",
-      "step43a_predicted_home_margin": "-4.315738525164966",
-      "step43a_predicted_total": "55.79867595762839",
-      "step43a_predicted_home_score": "25.74146871623171",
-      "step43a_predicted_away_score": "30.05720724139668",
-      "step43a_predicted_home_win_probability_uncalibrated": "0.3937505728098025"
+      "step43a_predicted_home_margin": "-4.31573852516497",
+      "step43a_predicted_total": "55.79867595762838",
+      "step43a_predicted_home_score": "25.741468716231708",
+      "step43a_predicted_away_score": "30.057207241396675",
+      "step43a_predicted_home_win_probability_uncalibrated": "0.39375057280980236"
     },
     {
       "season": "2026",
@@ -2653,7 +2653,7 @@
       "away_coach_prior_win_pct": "0.6585365853658537",
       "target_margin": "",
       "target_total": "",
-      "step43a_predicted_home_margin": "-5.87434134508377",
+      "step43a_predicted_home_margin": "-5.874341345083768",
       "step43a_predicted_total": "56.61921480525244",
       "step43a_predicted_home_score": "25.372436730084335",
       "step43a_predicted_away_score": "31.246778075168105",
@@ -2712,11 +2712,11 @@
       "away_coach_prior_win_pct": "0.20408163265306123",
       "target_margin": "",
       "target_total": "",
-      "step43a_predicted_home_margin": "4.741767678460978",
-      "step43a_predicted_total": "55.509541413820465",
-      "step43a_predicted_home_score": "30.125654546140723",
+      "step43a_predicted_home_margin": "4.741767678460974",
+      "step43a_predicted_total": "55.50954141382046",
+      "step43a_predicted_home_score": "30.125654546140716",
       "step43a_predicted_away_score": "25.383886867679742",
-      "step43a_predicted_home_win_probability_uncalibrated": "0.6163718636885297"
+      "step43a_predicted_home_win_probability_uncalibrated": "0.6163718636885296"
     },
     {
       "season": "2026",
@@ -2889,10 +2889,10 @@
       "away_coach_prior_win_pct": "0.45098039215686275",
       "target_margin": "",
       "target_total": "",
-      "step43a_predicted_home_margin": "9.734574553910688",
+      "step43a_predicted_home_margin": "9.734574553910686",
       "step43a_predicted_total": "48.73264314889946",
-      "step43a_predicted_home_score": "29.233608851405076",
-      "step43a_predicted_away_score": "19.499034297494386",
+      "step43a_predicted_home_score": "29.233608851405073",
+      "step43a_predicted_away_score": "19.49903429749439",
       "step43a_predicted_home_win_probability_uncalibrated": "0.7258081053306323"
     },
     {
@@ -2948,10 +2948,10 @@
       "away_coach_prior_win_pct": "0.660377358490566",
       "target_margin": "",
       "target_total": "",
-      "step43a_predicted_home_margin": "7.071789102239585",
+      "step43a_predicted_home_margin": "7.071789102239579",
       "step43a_predicted_total": "56.14915255200702",
-      "step43a_predicted_home_score": "31.6104708271233",
-      "step43a_predicted_away_score": "24.538681724883716",
+      "step43a_predicted_home_score": "31.610470827123297",
+      "step43a_predicted_away_score": "24.53868172488372",
       "step43a_predicted_home_win_probability_uncalibrated": "0.6697775027051094"
     },
     {
@@ -3007,10 +3007,10 @@
       "away_coach_prior_win_pct": "0.3333333333333333",
       "target_margin": "",
       "target_total": "",
-      "step43a_predicted_home_margin": "9.495329347648736",
-      "step43a_predicted_total": "62.44491138072635",
-      "step43a_predicted_home_score": "35.970120364187544",
-      "step43a_predicted_away_score": "26.47479101653881",
+      "step43a_predicted_home_margin": "9.495329347648735",
+      "step43a_predicted_total": "62.444911380726346",
+      "step43a_predicted_home_score": "35.97012036418754",
+      "step43a_predicted_away_score": "26.474791016538806",
       "step43a_predicted_home_win_probability_uncalibrated": "0.7210212377311079"
     },
     {
@@ -3066,11 +3066,11 @@
       "away_coach_prior_win_pct": "0.8181818181818182",
       "target_margin": "",
       "target_total": "",
-      "step43a_predicted_home_margin": "5.912565233810717",
-      "step43a_predicted_total": "41.91430457829269",
-      "step43a_predicted_home_score": "23.913434906051705",
+      "step43a_predicted_home_margin": "5.912565233810724",
+      "step43a_predicted_total": "41.9143045782927",
+      "step43a_predicted_home_score": "23.913434906051712",
       "step43a_predicted_away_score": "18.000869672240988",
-      "step43a_predicted_home_win_probability_uncalibrated": "0.6436533985404117"
+      "step43a_predicted_home_win_probability_uncalibrated": "0.6436533985404118"
     },
     {
       "season": "2026",
@@ -3125,11 +3125,11 @@
       "away_coach_prior_win_pct": "0.6415094339622641",
       "target_margin": "",
       "target_total": "",
-      "step43a_predicted_home_margin": "4.601634788475532",
+      "step43a_predicted_home_margin": "4.601634788475536",
       "step43a_predicted_total": "55.74807218196097",
-      "step43a_predicted_home_score": "30.17485348521825",
-      "step43a_predicted_away_score": "25.57321869674272",
-      "step43a_predicted_home_win_probability_uncalibrated": "0.6130529571494496"
+      "step43a_predicted_home_score": "30.174853485218254",
+      "step43a_predicted_away_score": "25.573218696742718",
+      "step43a_predicted_home_win_probability_uncalibrated": "0.6130529571494497"
     },
     {
       "season": "2026",
@@ -3185,9 +3185,9 @@
       "target_margin": "",
       "target_total": "",
       "step43a_predicted_home_margin": "-7.99976992109763",
-      "step43a_predicted_total": "46.079305066539455",
-      "step43a_predicted_home_score": "19.039767572720912",
-      "step43a_predicted_away_score": "27.039537493818543",
+      "step43a_predicted_total": "46.07930506653946",
+      "step43a_predicted_home_score": "19.039767572720915",
+      "step43a_predicted_away_score": "27.039537493818546",
       "step43a_predicted_home_win_probability_uncalibrated": "0.3100304405047175"
     },
     {
@@ -3244,8 +3244,8 @@
       "target_margin": "",
       "target_total": "",
       "step43a_predicted_home_margin": "12.867559310169458",
-      "step43a_predicted_total": "49.36546906447834",
-      "step43a_predicted_home_score": "31.1165141873239",
+      "step43a_predicted_total": "49.36546906447833",
+      "step43a_predicted_home_score": "31.116514187323894",
       "step43a_predicted_away_score": "18.24895487715444",
       "step43a_predicted_home_win_probability_uncalibrated": "0.7835975907112012"
     },
@@ -3302,10 +3302,10 @@
       "away_coach_prior_win_pct": "0.5",
       "target_margin": "",
       "target_total": "",
-      "step43a_predicted_home_margin": "9.51297176504499",
-      "step43a_predicted_total": "61.62083581850434",
+      "step43a_predicted_home_margin": "9.512971765044988",
+      "step43a_predicted_total": "61.62083581850433",
       "step43a_predicted_home_score": "35.56690379177466",
-      "step43a_predicted_away_score": "26.053932026729676",
+      "step43a_predicted_away_score": "26.053932026729672",
       "step43a_predicted_home_win_probability_uncalibrated": "0.7213759758565556"
     },
     {
@@ -3361,7 +3361,7 @@
       "away_coach_prior_win_pct": "0.5",
       "target_margin": "",
       "target_total": "",
-      "step43a_predicted_home_margin": "3.1789421606081287",
+      "step43a_predicted_home_margin": "3.178942160608132",
       "step43a_predicted_total": "53.57324857253807",
       "step43a_predicted_home_score": "28.3760953665731",
       "step43a_predicted_away_score": "25.19715320596497",
@@ -3420,11 +3420,11 @@
       "away_coach_prior_win_pct": "0.6481481481481481",
       "target_margin": "",
       "target_total": "",
-      "step43a_predicted_home_margin": "-0.8891331873488051",
+      "step43a_predicted_home_margin": "-0.8891331873488015",
       "step43a_predicted_total": "58.070899557641866",
       "step43a_predicted_home_score": "28.59088318514653",
       "step43a_predicted_away_score": "29.480016372495335",
-      "step43a_predicted_home_win_probability_uncalibrated": "0.47778630273192196"
+      "step43a_predicted_home_win_probability_uncalibrated": "0.4777863027319221"
     },
     {
       "season": "2026",
@@ -3479,11 +3479,11 @@
       "away_coach_prior_win_pct": "0.48",
       "target_margin": "",
       "target_total": "",
-      "step43a_predicted_home_margin": "10.334652679164893",
-      "step43a_predicted_total": "55.63378074225019",
-      "step43a_predicted_home_score": "32.98421671070754",
+      "step43a_predicted_home_margin": "10.3346526791649",
+      "step43a_predicted_total": "55.633780742250195",
+      "step43a_predicted_home_score": "32.98421671070755",
       "step43a_predicted_away_score": "22.649564031542646",
-      "step43a_predicted_home_win_probability_uncalibrated": "0.7375871585356449"
+      "step43a_predicted_home_win_probability_uncalibrated": "0.7375871585356452"
     },
     {
       "season": "2026",
@@ -3538,11 +3538,11 @@
       "away_coach_prior_win_pct": "0.5961538461538461",
       "target_margin": "",
       "target_total": "",
-      "step43a_predicted_home_margin": "13.20088426605384",
-      "step43a_predicted_total": "46.657494468229906",
-      "step43a_predicted_home_score": "29.929189367141873",
+      "step43a_predicted_home_margin": "13.200884266053844",
+      "step43a_predicted_total": "46.65749446822991",
+      "step43a_predicted_home_score": "29.92918936714188",
       "step43a_predicted_away_score": "16.728305101088033",
-      "step43a_predicted_home_win_probability_uncalibrated": "0.7891964180288429"
+      "step43a_predicted_home_win_probability_uncalibrated": "0.789196418028843"
     },
     {
       "season": "2026",
@@ -3597,10 +3597,10 @@
       "away_coach_prior_win_pct": "0.3",
       "target_margin": "",
       "target_total": "",
-      "step43a_predicted_home_margin": "19.30052233783499",
-      "step43a_predicted_total": "52.227762267956365",
+      "step43a_predicted_home_margin": "19.300522337834984",
+      "step43a_predicted_total": "52.22776226795637",
       "step43a_predicted_home_score": "35.76414230289568",
-      "step43a_predicted_away_score": "16.463619965060687",
+      "step43a_predicted_away_score": "16.463619965060694",
       "step43a_predicted_home_win_probability_uncalibrated": "0.8732552012547082"
     },
     {
@@ -3656,11 +3656,11 @@
       "away_coach_prior_win_pct": "0.6481481481481481",
       "target_margin": "",
       "target_total": "",
-      "step43a_predicted_home_margin": "7.783999850391017",
+      "step43a_predicted_home_margin": "7.783999850391025",
       "step43a_predicted_total": "49.53255153688923",
-      "step43a_predicted_home_score": "28.658275693640125",
-      "step43a_predicted_away_score": "20.874275843249105",
-      "step43a_predicted_home_win_probability_uncalibrated": "0.6853351716757381"
+      "step43a_predicted_home_score": "28.658275693640128",
+      "step43a_predicted_away_score": "20.8742758432491",
+      "step43a_predicted_home_win_probability_uncalibrated": "0.6853351716757383"
     },
     {
       "season": "2026",
@@ -3715,11 +3715,11 @@
       "away_coach_prior_win_pct": "0.52",
       "target_margin": "",
       "target_total": "",
-      "step43a_predicted_home_margin": "-4.601163815579777",
+      "step43a_predicted_home_margin": "-4.601163815579791",
       "step43a_predicted_total": "54.56292571734902",
-      "step43a_predicted_home_score": "24.98088095088462",
-      "step43a_predicted_away_score": "29.582044766464396",
-      "step43a_predicted_home_win_probability_uncalibrated": "0.38695821528333174"
+      "step43a_predicted_home_score": "24.980880950884615",
+      "step43a_predicted_away_score": "29.582044766464403",
+      "step43a_predicted_home_win_probability_uncalibrated": "0.3869582152833314"
     },
     {
       "season": "2026",
@@ -3774,11 +3774,11 @@
       "away_coach_prior_win_pct": "0.5660377358490566",
       "target_margin": "",
       "target_total": "",
-      "step43a_predicted_home_margin": "0.02132909742526845",
+      "step43a_predicted_home_margin": "0.021329097425266674",
       "step43a_predicted_total": "63.372947671691",
       "step43a_predicted_home_score": "31.697138384558134",
       "step43a_predicted_away_score": "31.675809287132868",
-      "step43a_predicted_home_win_probability_uncalibrated": "0.5005332272334807"
+      "step43a_predicted_home_win_probability_uncalibrated": "0.5005332272334806"
     },
     {
       "season": "2026",
@@ -3833,10 +3833,10 @@
       "away_coach_prior_win_pct": "0.43137254901960786",
       "target_margin": "",
       "target_total": "",
-      "step43a_predicted_home_margin": "-1.0898908411639736",
-      "step43a_predicted_total": "47.95968223170093",
-      "step43a_predicted_home_score": "23.43489569526848",
-      "step43a_predicted_away_score": "24.52478653643245",
+      "step43a_predicted_home_margin": "-1.0898908411639718",
+      "step43a_predicted_total": "47.959682231700924",
+      "step43a_predicted_home_score": "23.434895695268477",
+      "step43a_predicted_away_score": "24.524786536432448",
       "step43a_predicted_home_win_probability_uncalibrated": "0.47277966863666593"
     },
     {
@@ -3951,11 +3951,11 @@
       "away_coach_prior_win_pct": "0.3673469387755102",
       "target_margin": "",
       "target_total": "",
-      "step43a_predicted_home_margin": "1.1645438208517431",
+      "step43a_predicted_home_margin": "1.164543820851728",
       "step43a_predicted_total": "61.49849904452224",
-      "step43a_predicted_home_score": "31.33152143268699",
-      "step43a_predicted_away_score": "30.16697761183525",
-      "step43a_predicted_home_win_probability_uncalibrated": "0.5290807377801923"
+      "step43a_predicted_home_score": "31.331521432686984",
+      "step43a_predicted_away_score": "30.166977611835257",
+      "step43a_predicted_home_win_probability_uncalibrated": "0.5290807377801919"
     },
     {
       "season": "2026",
@@ -4010,11 +4010,11 @@
       "away_coach_prior_win_pct": "",
       "target_margin": "",
       "target_total": "",
-      "step43a_predicted_home_margin": "-1.2431322291898335",
-      "step43a_predicted_total": "50.12565741700093",
+      "step43a_predicted_home_margin": "-1.2431322291898494",
+      "step43a_predicted_total": "50.125657417000944",
       "step43a_predicted_home_score": "24.44126259390555",
-      "step43a_predicted_away_score": "25.68439482309538",
-      "step43a_predicted_home_win_probability_uncalibrated": "0.46896165561755393"
+      "step43a_predicted_away_score": "25.684394823095396",
+      "step43a_predicted_home_win_probability_uncalibrated": "0.46896165561755354"
     },
     {
       "season": "2026",
@@ -4070,9 +4070,9 @@
       "target_margin": "",
       "target_total": "",
       "step43a_predicted_home_margin": "-13.953985704033531",
-      "step43a_predicted_total": "49.40504159220989",
+      "step43a_predicted_total": "49.405041592209884",
       "step43a_predicted_home_score": "17.725527944088178",
-      "step43a_predicted_away_score": "31.679513648121713",
+      "step43a_predicted_away_score": "31.679513648121706",
       "step43a_predicted_home_win_probability_uncalibrated": "0.19854730424257994"
     },
     {
@@ -4128,10 +4128,10 @@
       "away_coach_prior_win_pct": "0.48",
       "target_margin": "",
       "target_total": "",
-      "step43a_predicted_home_margin": "10.097014406042883",
+      "step43a_predicted_home_margin": "10.097014406042888",
       "step43a_predicted_total": "51.2723713969938",
-      "step43a_predicted_home_score": "30.68469290151834",
-      "step43a_predicted_away_score": "20.58767849547546",
+      "step43a_predicted_home_score": "30.684692901518343",
+      "step43a_predicted_away_score": "20.587678495475455",
       "step43a_predicted_home_win_probability_uncalibrated": "0.7329617166196777"
     },
     {
@@ -4247,9 +4247,9 @@
       "target_margin": "",
       "target_total": "",
       "step43a_predicted_home_margin": "8.700528605483203",
-      "step43a_predicted_total": "56.40033046648083",
-      "step43a_predicted_home_score": "32.55042953598202",
-      "step43a_predicted_away_score": "23.849900930498812",
+      "step43a_predicted_total": "56.40033046648082",
+      "step43a_predicted_home_score": "32.55042953598201",
+      "step43a_predicted_away_score": "23.849900930498805",
       "step43a_predicted_home_win_probability_uncalibrated": "0.7047566970596071"
     },
     {
@@ -4305,11 +4305,11 @@
       "away_coach_prior_win_pct": "0.40816326530612246",
       "target_margin": "",
       "target_total": "",
-      "step43a_predicted_home_margin": "1.044308045864864",
-      "step43a_predicted_total": "51.77159985149553",
-      "step43a_predicted_home_score": "26.4079539486802",
+      "step43a_predicted_home_margin": "1.0443080458648595",
+      "step43a_predicted_total": "51.77159985149552",
+      "step43a_predicted_home_score": "26.40795394868019",
       "step43a_predicted_away_score": "25.363645902815332",
-      "step43a_predicted_home_win_probability_uncalibrated": "0.5260839998957948"
+      "step43a_predicted_home_win_probability_uncalibrated": "0.5260839998957947"
     },
     {
       "season": "2026",
@@ -4364,11 +4364,11 @@
       "away_coach_prior_win_pct": "0.39215686274509803",
       "target_margin": "",
       "target_total": "",
-      "step43a_predicted_home_margin": "2.420261605562792",
-      "step43a_predicted_total": "60.564098365862655",
-      "step43a_predicted_home_score": "31.492179985712724",
+      "step43a_predicted_home_margin": "2.4202616055627866",
+      "step43a_predicted_total": "60.56409836586265",
+      "step43a_predicted_home_score": "31.492179985712717",
       "step43a_predicted_away_score": "29.07191838014993",
-      "step43a_predicted_home_win_probability_uncalibrated": "0.5602129041098642"
+      "step43a_predicted_home_win_probability_uncalibrated": "0.560212904109864"
     },
     {
       "season": "2026",
@@ -4423,10 +4423,10 @@
       "away_coach_prior_win_pct": "0.5882352941176471",
       "target_margin": "",
       "target_total": "",
-      "step43a_predicted_home_margin": "2.1390619768275774",
-      "step43a_predicted_total": "51.7604422251822",
-      "step43a_predicted_home_score": "26.94975210100489",
-      "step43a_predicted_away_score": "24.810690124177313",
+      "step43a_predicted_home_margin": "2.1390619768275747",
+      "step43a_predicted_total": "51.76044222518221",
+      "step43a_predicted_home_score": "26.949752101004893",
+      "step43a_predicted_away_score": "24.810690124177317",
       "step43a_predicted_home_win_probability_uncalibrated": "0.5532735726425401"
     },
     {
@@ -4482,11 +4482,11 @@
       "away_coach_prior_win_pct": "0.47058823529411764",
       "target_margin": "",
       "target_total": "",
-      "step43a_predicted_home_margin": "16.530611073426105",
+      "step43a_predicted_home_margin": "16.53061107342611",
       "step43a_predicted_total": "53.970005114152556",
       "step43a_predicted_home_score": "35.25030809378933",
-      "step43a_predicted_away_score": "18.719697020363228",
-      "step43a_predicted_home_win_probability_uncalibrated": "0.8393043387625587"
+      "step43a_predicted_away_score": "18.719697020363224",
+      "step43a_predicted_home_win_probability_uncalibrated": "0.8393043387625588"
     },
     {
       "season": "2026",
@@ -4541,11 +4541,11 @@
       "away_coach_prior_win_pct": "0.6851851851851852",
       "target_margin": "",
       "target_total": "",
-      "step43a_predicted_home_margin": "5.808868297601152",
-      "step43a_predicted_total": "43.87335291605338",
-      "step43a_predicted_home_score": "24.841110606827264",
-      "step43a_predicted_away_score": "19.032242309226113",
-      "step43a_predicted_home_win_probability_uncalibrated": "0.6412714403123867"
+      "step43a_predicted_home_margin": "5.808868297601154",
+      "step43a_predicted_total": "43.873352916053385",
+      "step43a_predicted_home_score": "24.841110606827268",
+      "step43a_predicted_away_score": "19.032242309226117",
+      "step43a_predicted_home_win_probability_uncalibrated": "0.6412714403123868"
     },
     {
       "season": "2026",
@@ -4600,11 +4600,11 @@
       "away_coach_prior_win_pct": "0.8571428571428571",
       "target_margin": "",
       "target_total": "",
-      "step43a_predicted_home_margin": "-15.7178707697514",
-      "step43a_predicted_total": "44.34288327045503",
-      "step43a_predicted_home_score": "14.312506250351817",
-      "step43a_predicted_away_score": "30.030377020103217",
-      "step43a_predicted_home_win_probability_uncalibrated": "0.1719617789955906"
+      "step43a_predicted_home_margin": "-15.717870769751404",
+      "step43a_predicted_total": "44.34288327045504",
+      "step43a_predicted_home_score": "14.312506250351818",
+      "step43a_predicted_away_score": "30.030377020103224",
+      "step43a_predicted_home_win_probability_uncalibrated": "0.17196177899559056"
     },
     {
       "season": "2026",
@@ -4659,10 +4659,10 @@
       "away_coach_prior_win_pct": "0.2708333333333333",
       "target_margin": "",
       "target_total": "",
-      "step43a_predicted_home_margin": "21.006080271860846",
-      "step43a_predicted_total": "58.92911547862271",
-      "step43a_predicted_home_score": "39.96759787524178",
-      "step43a_predicted_away_score": "18.961517603380933",
+      "step43a_predicted_home_margin": "21.006080271860842",
+      "step43a_predicted_total": "58.92911547862273",
+      "step43a_predicted_home_score": "39.967597875241786",
+      "step43a_predicted_away_score": "18.96151760338094",
       "step43a_predicted_home_win_probability_uncalibrated": "0.890962261782601"
     },
     {
@@ -4777,10 +4777,10 @@
       "away_coach_prior_win_pct": "0.46",
       "target_margin": "",
       "target_total": "",
-      "step43a_predicted_home_margin": "16.065854624388823",
-      "step43a_predicted_total": "55.63721687707467",
+      "step43a_predicted_home_margin": "16.06585462438882",
+      "step43a_predicted_total": "55.63721687707468",
       "step43a_predicted_home_score": "35.85153575073175",
-      "step43a_predicted_away_score": "19.785681126342922",
+      "step43a_predicted_away_score": "19.78568112634293",
       "step43a_predicted_home_win_probability_uncalibrated": "0.8329367829450454"
     },
     {
@@ -4895,11 +4895,11 @@
       "away_coach_prior_win_pct": "0.46",
       "target_margin": "",
       "target_total": "",
-      "step43a_predicted_home_margin": "-7.2144094368429466",
-      "step43a_predicted_total": "54.47544926651467",
-      "step43a_predicted_home_score": "23.630519914835862",
+      "step43a_predicted_home_margin": "-7.214409436842955",
+      "step43a_predicted_total": "54.475449266514666",
+      "step43a_predicted_home_score": "23.630519914835855",
       "step43a_predicted_away_score": "30.84492935167881",
-      "step43a_predicted_home_win_probability_uncalibrated": "0.3270757562636464"
+      "step43a_predicted_home_win_probability_uncalibrated": "0.3270757562636462"
     },
     {
       "season": "2026",
@@ -4954,7 +4954,7 @@
       "away_coach_prior_win_pct": "0.6415094339622641",
       "target_margin": "",
       "target_total": "",
-      "step43a_predicted_home_margin": "-1.9933520823955346",
+      "step43a_predicted_home_margin": "-1.9933520823955329",
       "step43a_predicted_total": "48.08281030330369",
       "step43a_predicted_home_score": "23.044729110454078",
       "step43a_predicted_away_score": "25.03808119284961",
@@ -5013,10 +5013,10 @@
       "away_coach_prior_win_pct": "0.25",
       "target_margin": "",
       "target_total": "",
-      "step43a_predicted_home_margin": "22.51492736121532",
-      "step43a_predicted_total": "56.167465326462455",
-      "step43a_predicted_home_score": "39.34119634383889",
-      "step43a_predicted_away_score": "16.826268982623567",
+      "step43a_predicted_home_margin": "22.514927361215317",
+      "step43a_predicted_total": "56.16746532646244",
+      "step43a_predicted_home_score": "39.34119634383888",
+      "step43a_predicted_away_score": "16.82626898262356",
       "step43a_predicted_home_win_probability_uncalibrated": "0.9047792176974527"
     },
     {
@@ -5131,11 +5131,11 @@
       "away_coach_prior_win_pct": "0.5660377358490566",
       "target_margin": "",
       "target_total": "",
-      "step43a_predicted_home_margin": "-6.645909231737639",
+      "step43a_predicted_home_margin": "-6.645909231737641",
       "step43a_predicted_total": "58.03908407978506",
       "step43a_predicted_home_score": "25.69658742402371",
       "step43a_predicted_away_score": "32.34249665576135",
-      "step43a_predicted_home_win_probability_uncalibrated": "0.33970907962553476"
+      "step43a_predicted_home_win_probability_uncalibrated": "0.3397090796255347"
     },
     {
       "season": "2026",
@@ -5191,9 +5191,9 @@
       "target_margin": "",
       "target_total": "",
       "step43a_predicted_home_margin": "-6.230628843586309",
-      "step43a_predicted_total": "54.54993631416559",
-      "step43a_predicted_home_score": "24.15965373528964",
-      "step43a_predicted_away_score": "30.39028257887595",
+      "step43a_predicted_total": "54.549936314165585",
+      "step43a_predicted_home_score": "24.159653735289638",
+      "step43a_predicted_away_score": "30.390282578875947",
       "step43a_predicted_home_win_probability_uncalibrated": "0.34908516710375537"
     },
     {
@@ -5249,11 +5249,11 @@
       "away_coach_prior_win_pct": "0.43137254901960786",
       "target_margin": "",
       "target_total": "",
-      "step43a_predicted_home_margin": "0.15579762613075587",
-      "step43a_predicted_total": "52.352827657385255",
-      "step43a_predicted_home_score": "26.254312641758005",
-      "step43a_predicted_away_score": "26.09851501562725",
-      "step43a_predicted_home_win_probability_uncalibrated": "0.5038948618705926"
+      "step43a_predicted_home_margin": "0.15579762613075854",
+      "step43a_predicted_total": "52.35282765738525",
+      "step43a_predicted_home_score": "26.254312641758002",
+      "step43a_predicted_away_score": "26.098515015627246",
+      "step43a_predicted_home_win_probability_uncalibrated": "0.5038948618705927"
     },
     {
       "season": "2026",
@@ -5308,10 +5308,10 @@
       "away_coach_prior_win_pct": "0.2916666666666667",
       "target_margin": "",
       "target_total": "",
-      "step43a_predicted_home_margin": "7.934790565971629",
+      "step43a_predicted_home_margin": "7.9347905659716265",
       "step43a_predicted_total": "55.20504060809742",
-      "step43a_predicted_home_score": "31.569915587034526",
-      "step43a_predicted_away_score": "23.635125021062894",
+      "step43a_predicted_home_score": "31.569915587034522",
+      "step43a_predicted_away_score": "23.635125021062898",
       "step43a_predicted_home_win_probability_uncalibrated": "0.6885778629036929"
     },
     {
@@ -5367,11 +5367,11 @@
       "away_coach_prior_win_pct": "0.5576923076923077",
       "target_margin": "",
       "target_total": "",
-      "step43a_predicted_home_margin": "11.84443717905847",
+      "step43a_predicted_home_margin": "11.844437179058477",
       "step43a_predicted_total": "53.047592697440784",
-      "step43a_predicted_home_score": "32.446014938249625",
-      "step43a_predicted_away_score": "20.60157775919116",
-      "step43a_predicted_home_win_probability_uncalibrated": "0.7657458551675285"
+      "step43a_predicted_home_score": "32.44601493824963",
+      "step43a_predicted_away_score": "20.60157775919115",
+      "step43a_predicted_home_win_probability_uncalibrated": "0.7657458551675286"
     },
     {
       "season": "2026",
@@ -5426,7 +5426,7 @@
       "away_coach_prior_win_pct": "0.5192307692307693",
       "target_margin": "",
       "target_total": "",
-      "step43a_predicted_home_margin": "-0.9939815476991223",
+      "step43a_predicted_home_margin": "-0.9939815476991232",
       "step43a_predicted_total": "51.12610807062214",
       "step43a_predicted_home_score": "25.066063261461508",
       "step43a_predicted_away_score": "26.06004480916063",
@@ -5485,10 +5485,10 @@
       "away_coach_prior_win_pct": "0.30612244897959184",
       "target_margin": "",
       "target_total": "",
-      "step43a_predicted_home_margin": "3.0757755976424086",
+      "step43a_predicted_home_margin": "3.075775597642405",
       "step43a_predicted_total": "56.17652141140179",
-      "step43a_predicted_home_score": "29.6261485045221",
-      "step43a_predicted_away_score": "26.550372906879687",
+      "step43a_predicted_home_score": "29.626148504522096",
+      "step43a_predicted_away_score": "26.55037290687969",
       "step43a_predicted_home_win_probability_uncalibrated": "0.576293861090133"
     },
     {
@@ -5545,9 +5545,9 @@
       "target_margin": "",
       "target_total": "",
       "step43a_predicted_home_margin": "-2.247516899469016",
-      "step43a_predicted_total": "56.466077665275286",
-      "step43a_predicted_home_score": "27.109280382903137",
-      "step43a_predicted_away_score": "29.35679728237215",
+      "step43a_predicted_total": "56.46607766527527",
+      "step43a_predicted_home_score": "27.10928038290313",
+      "step43a_predicted_away_score": "29.356797282372142",
       "step43a_predicted_home_win_probability_uncalibrated": "0.44404740873425935"
     },
     {
@@ -5662,11 +5662,11 @@
       "away_coach_prior_win_pct": "0.2708333333333333",
       "target_margin": "",
       "target_total": "",
-      "step43a_predicted_home_margin": "8.507648179596874",
-      "step43a_predicted_total": "52.41279254105907",
-      "step43a_predicted_home_score": "30.460220360327973",
-      "step43a_predicted_away_score": "21.952572180731096",
-      "step43a_predicted_home_win_probability_uncalibrated": "0.7007275558803918"
+      "step43a_predicted_home_margin": "8.507648179596861",
+      "step43a_predicted_total": "52.41279254105906",
+      "step43a_predicted_home_score": "30.460220360327963",
+      "step43a_predicted_away_score": "21.9525721807311",
+      "step43a_predicted_home_win_probability_uncalibrated": "0.7007275558803916"
     },
     {
       "season": "2026",
@@ -5721,11 +5721,11 @@
       "away_coach_prior_win_pct": "0.5",
       "target_margin": "",
       "target_total": "",
-      "step43a_predicted_home_margin": "5.225395244221794",
+      "step43a_predicted_home_margin": "5.2253952442217955",
       "step43a_predicted_total": "44.87932343875344",
       "step43a_predicted_home_score": "25.052359341487616",
       "step43a_predicted_away_score": "19.826964097265822",
-      "step43a_predicted_home_win_probability_uncalibrated": "0.6277414000584983"
+      "step43a_predicted_home_win_probability_uncalibrated": "0.6277414000584984"
     },
     {
       "season": "2026",
@@ -5780,7 +5780,7 @@
       "away_coach_prior_win_pct": "0.48",
       "target_margin": "",
       "target_total": "",
-      "step43a_predicted_home_margin": "8.778346924080793",
+      "step43a_predicted_home_margin": "8.77834692408079",
       "step43a_predicted_total": "52.118178855314454",
       "step43a_predicted_home_score": "30.448262889697624",
       "step43a_predicted_away_score": "21.66991596561683",
@@ -5839,11 +5839,11 @@
       "away_coach_prior_win_pct": "0.46",
       "target_margin": "",
       "target_total": "",
-      "step43a_predicted_home_margin": "7.647172118644807",
+      "step43a_predicted_home_margin": "7.647172118644799",
       "step43a_predicted_total": "47.68389035488928",
-      "step43a_predicted_home_score": "27.665531236767045",
-      "step43a_predicted_away_score": "20.018359118122234",
-      "step43a_predicted_home_win_probability_uncalibrated": "0.6823770142427743"
+      "step43a_predicted_home_score": "27.665531236767038",
+      "step43a_predicted_away_score": "20.01835911812224",
+      "step43a_predicted_home_win_probability_uncalibrated": "0.6823770142427741"
     },
     {
       "season": "2026",
@@ -5898,11 +5898,11 @@
       "away_coach_prior_win_pct": "0.6078431372549019",
       "target_margin": "",
       "target_total": "",
-      "step43a_predicted_home_margin": "7.385932626624151",
+      "step43a_predicted_home_margin": "7.385932626624149",
       "step43a_predicted_total": "39.55565304119182",
-      "step43a_predicted_home_score": "23.470792833907986",
-      "step43a_predicted_away_score": "16.084860207283832",
-      "step43a_predicted_home_win_probability_uncalibrated": "0.676688164954379"
+      "step43a_predicted_home_score": "23.470792833907982",
+      "step43a_predicted_away_score": "16.084860207283835",
+      "step43a_predicted_home_win_probability_uncalibrated": "0.6766881649543789"
     },
     {
       "season": "2026",
@@ -5958,9 +5958,9 @@
       "target_margin": "",
       "target_total": "",
       "step43a_predicted_home_margin": "-11.244147023874508",
-      "step43a_predicted_total": "53.708143808944946",
+      "step43a_predicted_total": "53.70814380894494",
       "step43a_predicted_home_score": "21.231998392535218",
-      "step43a_predicted_away_score": "32.47614541640973",
+      "step43a_predicted_away_score": "32.47614541640972",
       "step43a_predicted_home_win_probability_uncalibrated": "0.24519332008702294"
     },
     {
@@ -6016,11 +6016,11 @@
       "away_coach_prior_win_pct": "0.6792452830188679",
       "target_margin": "",
       "target_total": "",
-      "step43a_predicted_home_margin": "-1.8544347250827",
-      "step43a_predicted_total": "47.732724164277286",
+      "step43a_predicted_home_margin": "-1.8544347250827027",
+      "step43a_predicted_total": "47.73272416427729",
       "step43a_predicted_home_score": "22.939144719597294",
-      "step43a_predicted_away_score": "24.79357944467999",
-      "step43a_predicted_home_win_probability_uncalibrated": "0.45377153630759703"
+      "step43a_predicted_away_score": "24.79357944468",
+      "step43a_predicted_home_win_probability_uncalibrated": "0.45377153630759687"
     },
     {
       "season": "2026",
@@ -6075,10 +6075,10 @@
       "away_coach_prior_win_pct": "0.4",
       "target_margin": "",
       "target_total": "",
-      "step43a_predicted_home_margin": "22.60838994633612",
-      "step43a_predicted_total": "47.28978953553427",
+      "step43a_predicted_home_margin": "22.608389946336114",
+      "step43a_predicted_total": "47.289789535534275",
       "step43a_predicted_home_score": "34.94908974093519",
-      "step43a_predicted_away_score": "12.340699794599074",
+      "step43a_predicted_away_score": "12.34069979459908",
       "step43a_predicted_home_win_probability_uncalibrated": "0.9055813926386425"
     },
     {
@@ -6134,7 +6134,7 @@
       "away_coach_prior_win_pct": "0.56",
       "target_margin": "",
       "target_total": "",
-      "step43a_predicted_home_margin": "0.3990565940870052",
+      "step43a_predicted_home_margin": "0.39905659408700567",
       "step43a_predicted_total": "54.45325375326665",
       "step43a_predicted_home_score": "27.42615517367683",
       "step43a_predicted_away_score": "27.027098579589822",
@@ -6193,7 +6193,7 @@
       "away_coach_prior_win_pct": "0.6923076923076923",
       "target_margin": "",
       "target_total": "",
-      "step43a_predicted_home_margin": "-4.41825014639356",
+      "step43a_predicted_home_margin": "-4.418250146393558",
       "step43a_predicted_total": "50.57990390316041",
       "step43a_predicted_home_score": "23.080826878383423",
       "step43a_predicted_away_score": "27.499077024776984",
@@ -6252,10 +6252,10 @@
       "away_coach_prior_win_pct": "0.3469387755102041",
       "target_margin": "",
       "target_total": "",
-      "step43a_predicted_home_margin": "9.403437687803283",
+      "step43a_predicted_home_margin": "9.40343768780328",
       "step43a_predicted_total": "52.84553900697392",
-      "step43a_predicted_home_score": "31.124488347388603",
-      "step43a_predicted_away_score": "21.72105065958532",
+      "step43a_predicted_home_score": "31.1244883473886",
+      "step43a_predicted_away_score": "21.721050659585323",
       "step43a_predicted_home_win_probability_uncalibrated": "0.7191690918776278"
     },
     {
@@ -6311,11 +6311,11 @@
       "away_coach_prior_win_pct": "0.52",
       "target_margin": "",
       "target_total": "",
-      "step43a_predicted_home_margin": "-4.277222671416889",
-      "step43a_predicted_total": "63.85084222501394",
-      "step43a_predicted_home_score": "29.786809776798528",
+      "step43a_predicted_home_margin": "-4.277222671416894",
+      "step43a_predicted_total": "63.850842225013935",
+      "step43a_predicted_home_score": "29.78680977679852",
       "step43a_predicted_away_score": "34.064032448215414",
-      "step43a_predicted_home_win_probability_uncalibrated": "0.3946703641022679"
+      "step43a_predicted_home_win_probability_uncalibrated": "0.3946703641022678"
     },
     {
       "season": "2026",
@@ -6370,11 +6370,11 @@
       "away_coach_prior_win_pct": "0.4117647058823529",
       "target_margin": "",
       "target_total": "",
-      "step43a_predicted_home_margin": "-1.8802318936665499",
+      "step43a_predicted_home_margin": "-1.8802318936665587",
       "step43a_predicted_total": "52.209757747709645",
-      "step43a_predicted_home_score": "25.16476292702155",
-      "step43a_predicted_away_score": "27.044994820688096",
-      "step43a_predicted_home_win_probability_uncalibrated": "0.4531321967305802"
+      "step43a_predicted_home_score": "25.164762927021542",
+      "step43a_predicted_away_score": "27.044994820688103",
+      "step43a_predicted_home_win_probability_uncalibrated": "0.45313219673058003"
     },
     {
       "season": "2026",
@@ -6429,7 +6429,7 @@
       "away_coach_prior_win_pct": "0.660377358490566",
       "target_margin": "",
       "target_total": "",
-      "step43a_predicted_home_margin": "-1.2164892861287484",
+      "step43a_predicted_home_margin": "-1.2164892861287475",
       "step43a_predicted_total": "48.10220602517179",
       "step43a_predicted_home_score": "23.44285836952152",
       "step43a_predicted_away_score": "24.65934765565027",
@@ -6488,11 +6488,11 @@
       "away_coach_prior_win_pct": "0.4",
       "target_margin": "",
       "target_total": "",
-      "step43a_predicted_home_margin": "-1.849242499132293",
+      "step43a_predicted_home_margin": "-1.849242499132301",
       "step43a_predicted_total": "47.76259423457621",
-      "step43a_predicted_home_score": "22.95667586772196",
-      "step43a_predicted_away_score": "24.805918366854254",
-      "step43a_predicted_home_win_probability_uncalibrated": "0.4539002354271378"
+      "step43a_predicted_home_score": "22.956675867721955",
+      "step43a_predicted_away_score": "24.805918366854257",
+      "step43a_predicted_home_win_probability_uncalibrated": "0.45390023542713764"
     },
     {
       "season": "2026",
@@ -6547,9 +6547,9 @@
       "away_coach_prior_win_pct": "0.3877551020408163",
       "target_margin": "",
       "target_total": "",
-      "step43a_predicted_home_margin": "22.83558101978149",
-      "step43a_predicted_total": "58.15989927036389",
-      "step43a_predicted_home_score": "40.49774014507269",
+      "step43a_predicted_home_margin": "22.835581019781483",
+      "step43a_predicted_total": "58.15989927036388",
+      "step43a_predicted_home_score": "40.49774014507268",
       "step43a_predicted_away_score": "17.662159125291197",
       "step43a_predicted_home_win_probability_uncalibrated": "0.9075061428504481"
     },
@@ -6606,11 +6606,11 @@
       "away_coach_prior_win_pct": "0.6538461538461539",
       "target_margin": "",
       "target_total": "",
-      "step43a_predicted_home_margin": "-1.6823972561403782",
-      "step43a_predicted_total": "43.372457843326394",
-      "step43a_predicted_home_score": "20.84503029359301",
-      "step43a_predicted_away_score": "22.527427549733385",
-      "step43a_predicted_home_win_probability_uncalibrated": "0.458038996075287"
+      "step43a_predicted_home_margin": "-1.6823972561403773",
+      "step43a_predicted_total": "43.3724578433264",
+      "step43a_predicted_home_score": "20.845030293593013",
+      "step43a_predicted_away_score": "22.52742754973339",
+      "step43a_predicted_home_win_probability_uncalibrated": "0.4580389960752871"
     },
     {
       "season": "2026",
@@ -6665,11 +6665,11 @@
       "away_coach_prior_win_pct": "0.5192307692307693",
       "target_margin": "",
       "target_total": "",
-      "step43a_predicted_home_margin": "-3.5222521809538163",
-      "step43a_predicted_total": "51.537512540825034",
+      "step43a_predicted_home_margin": "-3.5222521809538243",
+      "step43a_predicted_total": "51.53751254082504",
       "step43a_predicted_home_score": "24.00763017993561",
-      "step43a_predicted_away_score": "27.529882360889424",
-      "step43a_predicted_home_win_probability_uncalibrated": "0.41284291569968884"
+      "step43a_predicted_away_score": "27.52988236088943",
+      "step43a_predicted_home_win_probability_uncalibrated": "0.4128429156996886"
     },
     {
       "season": "2026",
@@ -6724,11 +6724,11 @@
       "away_coach_prior_win_pct": "0.660377358490566",
       "target_margin": "",
       "target_total": "",
-      "step43a_predicted_home_margin": "-3.3705958787466352",
+      "step43a_predicted_home_margin": "-3.3705958787466335",
       "step43a_predicted_total": "49.973463477094185",
       "step43a_predicted_home_score": "23.301433799173775",
       "step43a_predicted_away_score": "26.67202967792041",
-      "step43a_predicted_home_win_probability_uncalibrated": "0.41652391467268707"
+      "step43a_predicted_home_win_probability_uncalibrated": "0.4165239146726871"
     },
     {
       "season": "2026",
@@ -6783,11 +6783,11 @@
       "away_coach_prior_win_pct": "0.5",
       "target_margin": "",
       "target_total": "",
-      "step43a_predicted_home_margin": "-11.453849693837597",
-      "step43a_predicted_total": "56.60352398437767",
-      "step43a_predicted_home_score": "22.574837145270035",
+      "step43a_predicted_home_margin": "-11.453849693837604",
+      "step43a_predicted_total": "56.60352398437766",
+      "step43a_predicted_home_score": "22.574837145270028",
       "step43a_predicted_away_score": "34.028686839107635",
-      "step43a_predicted_home_win_probability_uncalibrated": "0.24133304651627008"
+      "step43a_predicted_home_win_probability_uncalibrated": "0.24133304651627"
     },
     {
       "season": "2026",
@@ -6842,10 +6842,10 @@
       "away_coach_prior_win_pct": "0.5294117647058824",
       "target_margin": "",
       "target_total": "",
-      "step43a_predicted_home_margin": "13.991784239624636",
+      "step43a_predicted_home_margin": "13.991784239624643",
       "step43a_predicted_total": "52.777894518331955",
       "step43a_predicted_home_score": "33.3848393789783",
-      "step43a_predicted_away_score": "19.39305513935366",
+      "step43a_predicted_away_score": "19.393055139353656",
       "step43a_predicted_home_win_probability_uncalibrated": "0.8020534844815811"
     },
     {
@@ -6901,7 +6901,7 @@
       "away_coach_prior_win_pct": "0.5490196078431373",
       "target_margin": "",
       "target_total": "",
-      "step43a_predicted_home_margin": "1.2915418388894944",
+      "step43a_predicted_home_margin": "1.2915418388894935",
       "step43a_predicted_total": "62.22894903328287",
       "step43a_predicted_home_score": "31.760245436086183",
       "step43a_predicted_away_score": "30.46870359719669",
@@ -6960,11 +6960,11 @@
       "away_coach_prior_win_pct": "0.5098039215686274",
       "target_margin": "",
       "target_total": "",
-      "step43a_predicted_home_margin": "-0.793163796031009",
+      "step43a_predicted_home_margin": "-0.7931637960310116",
       "step43a_predicted_total": "52.8826885019294",
       "step43a_predicted_home_score": "26.044762352949196",
       "step43a_predicted_away_score": "26.837926148980205",
-      "step43a_predicted_home_win_probability_uncalibrated": "0.4801812941119906"
+      "step43a_predicted_home_win_probability_uncalibrated": "0.4801812941119905"
     },
     {
       "season": "2026",
@@ -7019,11 +7019,11 @@
       "away_coach_prior_win_pct": "0.5961538461538461",
       "target_margin": "",
       "target_total": "",
-      "step43a_predicted_home_margin": "8.74096121801334",
-      "step43a_predicted_total": "57.97400722586393",
+      "step43a_predicted_home_margin": "8.740961218013341",
+      "step43a_predicted_total": "57.97400722586392",
       "step43a_predicted_home_score": "33.357484221938634",
-      "step43a_predicted_away_score": "24.616523003925295",
-      "step43a_predicted_home_win_probability_uncalibrated": "0.7055973003437935"
+      "step43a_predicted_away_score": "24.61652300392529",
+      "step43a_predicted_home_win_probability_uncalibrated": "0.7055973003437936"
     },
     {
       "season": "2026",
@@ -7078,11 +7078,11 @@
       "away_coach_prior_win_pct": "0.6923076923076923",
       "target_margin": "",
       "target_total": "",
-      "step43a_predicted_home_margin": "-7.428112200067125",
-      "step43a_predicted_total": "57.535586077277856",
-      "step43a_predicted_home_score": "25.053736938605365",
-      "step43a_predicted_away_score": "32.48184913867249",
-      "step43a_predicted_home_win_probability_uncalibrated": "0.3223897134770477"
+      "step43a_predicted_home_margin": "-7.428112200067122",
+      "step43a_predicted_total": "57.53558607727787",
+      "step43a_predicted_home_score": "25.053736938605375",
+      "step43a_predicted_away_score": "32.481849138672494",
+      "step43a_predicted_home_win_probability_uncalibrated": "0.3223897134770478"
     },
     {
       "season": "2026",
@@ -7137,11 +7137,11 @@
       "away_coach_prior_win_pct": "0.5294117647058824",
       "target_margin": "",
       "target_total": "",
-      "step43a_predicted_home_margin": "3.1343893639469624",
-      "step43a_predicted_total": "55.238274846225416",
-      "step43a_predicted_home_score": "29.18633210508619",
-      "step43a_predicted_away_score": "26.051942741139225",
-      "step43a_predicted_home_win_probability_uncalibrated": "0.5777244437869473"
+      "step43a_predicted_home_margin": "3.1343893639469673",
+      "step43a_predicted_total": "55.23827484622542",
+      "step43a_predicted_home_score": "29.186332105086194",
+      "step43a_predicted_away_score": "26.05194274113923",
+      "step43a_predicted_home_win_probability_uncalibrated": "0.5777244437869474"
     },
     {
       "season": "2026",
@@ -7196,11 +7196,11 @@
       "away_coach_prior_win_pct": "0.6296296296296297",
       "target_margin": "",
       "target_total": "",
-      "step43a_predicted_home_margin": "19.169715503216008",
+      "step43a_predicted_home_margin": "19.16971550321602",
       "step43a_predicted_total": "54.245263506811476",
-      "step43a_predicted_home_score": "36.70748950501374",
-      "step43a_predicted_away_score": "17.537774001797736",
-      "step43a_predicted_home_win_probability_uncalibrated": "0.8718003414413874"
+      "step43a_predicted_home_score": "36.70748950501375",
+      "step43a_predicted_away_score": "17.53777400179773",
+      "step43a_predicted_home_win_probability_uncalibrated": "0.8718003414413876"
     },
     {
       "season": "2026",
@@ -7255,11 +7255,11 @@
       "away_coach_prior_win_pct": "0.3673469387755102",
       "target_margin": "",
       "target_total": "",
-      "step43a_predicted_home_margin": "2.5378337928070884",
+      "step43a_predicted_home_margin": "2.537833792807085",
       "step43a_predicted_total": "51.16425641536502",
-      "step43a_predicted_home_score": "26.851045104086054",
-      "step43a_predicted_away_score": "24.313211311278963",
-      "step43a_predicted_home_win_probability_uncalibrated": "0.563107499358628"
+      "step43a_predicted_home_score": "26.85104510408605",
+      "step43a_predicted_away_score": "24.313211311278966",
+      "step43a_predicted_home_win_probability_uncalibrated": "0.5631074993586279"
     },
     {
       "season": "2026",
@@ -7314,11 +7314,11 @@
       "away_coach_prior_win_pct": "0.5384615384615384",
       "target_margin": "",
       "target_total": "",
-      "step43a_predicted_home_margin": "13.144468394516789",
+      "step43a_predicted_home_margin": "13.144468394516796",
       "step43a_predicted_total": "59.425359108826875",
-      "step43a_predicted_home_score": "36.28491375167183",
-      "step43a_predicted_away_score": "23.140445357155045",
-      "step43a_predicted_home_win_probability_uncalibrated": "0.7882563216469536"
+      "step43a_predicted_home_score": "36.28491375167184",
+      "step43a_predicted_away_score": "23.140445357155038",
+      "step43a_predicted_home_win_probability_uncalibrated": "0.7882563216469537"
     },
     {
       "season": "2026",
@@ -7373,11 +7373,11 @@
       "away_coach_prior_win_pct": "0.5384615384615384",
       "target_margin": "",
       "target_total": "",
-      "step43a_predicted_home_margin": "2.3086862623086803",
-      "step43a_predicted_total": "52.95248502094704",
-      "step43a_predicted_home_score": "27.63058564162786",
-      "step43a_predicted_away_score": "25.321899379319177",
-      "step43a_predicted_home_win_probability_uncalibrated": "0.5574621537229602"
+      "step43a_predicted_home_margin": "2.3086862623086857",
+      "step43a_predicted_total": "52.952485020947044",
+      "step43a_predicted_home_score": "27.630585641627864",
+      "step43a_predicted_away_score": "25.32189937931918",
+      "step43a_predicted_home_win_probability_uncalibrated": "0.5574621537229604"
     },
     {
       "season": "2026",
@@ -7432,7 +7432,7 @@
       "away_coach_prior_win_pct": "0.3877551020408163",
       "target_margin": "",
       "target_total": "",
-      "step43a_predicted_home_margin": "2.089313280514178",
+      "step43a_predicted_home_margin": "2.0893132805141788",
       "step43a_predicted_total": "49.47292278483012",
       "step43a_predicted_home_score": "25.781118032672147",
       "step43a_predicted_away_score": "23.69180475215797",
@@ -7491,11 +7491,11 @@
       "away_coach_prior_win_pct": "0.48",
       "target_margin": "",
       "target_total": "",
-      "step43a_predicted_home_margin": "9.407614967860315",
+      "step43a_predicted_home_margin": "9.407614967860326",
       "step43a_predicted_total": "48.86507267964496",
-      "step43a_predicted_home_score": "29.13634382375264",
-      "step43a_predicted_away_score": "19.72872885589232",
-      "step43a_predicted_home_win_probability_uncalibrated": "0.7192534505518334"
+      "step43a_predicted_home_score": "29.136343823752643",
+      "step43a_predicted_away_score": "19.728728855892317",
+      "step43a_predicted_home_win_probability_uncalibrated": "0.7192534505518337"
     },
     {
       "season": "2026",
@@ -7550,11 +7550,11 @@
       "away_coach_prior_win_pct": "0.42",
       "target_margin": "",
       "target_total": "",
-      "step43a_predicted_home_margin": "12.040215953847575",
-      "step43a_predicted_total": "52.98275989003538",
-      "step43a_predicted_home_score": "32.51148792194148",
-      "step43a_predicted_away_score": "20.4712719680939",
-      "step43a_predicted_home_win_probability_uncalibrated": "0.7692394302516978"
+      "step43a_predicted_home_margin": "12.040215953847596",
+      "step43a_predicted_total": "52.982759890035375",
+      "step43a_predicted_home_score": "32.51148792194149",
+      "step43a_predicted_away_score": "20.471271968093887",
+      "step43a_predicted_home_win_probability_uncalibrated": "0.7692394302516983"
     },
     {
       "season": "2026",
@@ -7609,10 +7609,10 @@
       "away_coach_prior_win_pct": "0.5294117647058824",
       "target_margin": "",
       "target_total": "",
-      "step43a_predicted_home_margin": "14.037365210367028",
+      "step43a_predicted_home_margin": "14.037365210367035",
       "step43a_predicted_total": "51.20857103074503",
-      "step43a_predicted_home_score": "32.622968120556024",
-      "step43a_predicted_away_score": "18.585602910189",
+      "step43a_predicted_home_score": "32.62296812055603",
+      "step43a_predicted_away_score": "18.585602910188996",
       "step43a_predicted_home_win_probability_uncalibrated": "0.8027761485966515"
     },
     {
@@ -7668,7 +7668,7 @@
       "away_coach_prior_win_pct": "0.6481481481481481",
       "target_margin": "",
       "target_total": "",
-      "step43a_predicted_home_margin": "-4.006434747609426",
+      "step43a_predicted_home_margin": "-4.0064347476094255",
       "step43a_predicted_total": "49.70874705011016",
       "step43a_predicted_home_score": "22.85115615125037",
       "step43a_predicted_away_score": "26.857590898859794",
@@ -7727,11 +7727,11 @@
       "away_coach_prior_win_pct": "0.3673469387755102",
       "target_margin": "",
       "target_total": "",
-      "step43a_predicted_home_margin": "10.603588009421244",
+      "step43a_predicted_home_margin": "10.60358800942123",
       "step43a_predicted_total": "64.80282769110988",
-      "step43a_predicted_home_score": "37.703207850265564",
-      "step43a_predicted_away_score": "27.09961984084432",
-      "step43a_predicted_home_win_probability_uncalibrated": "0.7427591066579938"
+      "step43a_predicted_home_score": "37.70320785026556",
+      "step43a_predicted_away_score": "27.099619840844326",
+      "step43a_predicted_home_win_probability_uncalibrated": "0.7427591066579935"
     },
     {
       "season": "2026",
@@ -7786,11 +7786,11 @@
       "away_coach_prior_win_pct": "0.7037037037037037",
       "target_margin": "",
       "target_total": "",
-      "step43a_predicted_home_margin": "14.016781446219458",
-      "step43a_predicted_total": "54.74483168426576",
-      "step43a_predicted_home_score": "34.38080656524261",
+      "step43a_predicted_home_margin": "14.016781446219461",
+      "step43a_predicted_total": "54.74483168426577",
+      "step43a_predicted_home_score": "34.380806565242615",
       "step43a_predicted_away_score": "20.364025119023154",
-      "step43a_predicted_home_win_probability_uncalibrated": "0.8024500497309042"
+      "step43a_predicted_home_win_probability_uncalibrated": "0.8024500497309043"
     },
     {
       "season": "2026",
@@ -7846,9 +7846,9 @@
       "target_margin": "",
       "target_total": "",
       "step43a_predicted_home_margin": "22.424659579193545",
-      "step43a_predicted_total": "59.66408289705086",
-      "step43a_predicted_home_score": "41.0443712381222",
-      "step43a_predicted_away_score": "18.619711658928658",
+      "step43a_predicted_total": "59.664082897050854",
+      "step43a_predicted_home_score": "41.044371238122196",
+      "step43a_predicted_away_score": "18.619711658928654",
       "step43a_predicted_home_win_probability_uncalibrated": "0.903998679920031"
     },
     {
@@ -7904,7 +7904,7 @@
       "away_coach_prior_win_pct": "0.43137254901960786",
       "target_margin": "",
       "target_total": "",
-      "step43a_predicted_home_margin": "11.078072475189945",
+      "step43a_predicted_home_margin": "11.07807247518995",
       "step43a_predicted_total": "52.61477134817509",
       "step43a_predicted_home_score": "31.84642191168252",
       "step43a_predicted_away_score": "20.76834943649257",
@@ -7963,11 +7963,11 @@
       "away_coach_prior_win_pct": "0.6",
       "target_margin": "",
       "target_total": "",
-      "step43a_predicted_home_margin": "1.3162309130003758",
-      "step43a_predicted_total": "52.32436768286178",
-      "step43a_predicted_home_score": "26.820299297931076",
+      "step43a_predicted_home_margin": "1.3162309130003815",
+      "step43a_predicted_total": "52.324367682861784",
+      "step43a_predicted_home_score": "26.820299297931083",
       "step43a_predicted_away_score": "25.5040683849307",
-      "step43a_predicted_home_win_probability_uncalibrated": "0.5328583482673387"
+      "step43a_predicted_home_win_probability_uncalibrated": "0.5328583482673388"
     },
     {
       "season": "2026",
@@ -8023,8 +8023,8 @@
       "target_margin": "",
       "target_total": "",
       "step43a_predicted_home_margin": "12.786268798571012",
-      "step43a_predicted_total": "50.88890325886888",
-      "step43a_predicted_home_score": "31.837586028719947",
+      "step43a_predicted_total": "50.88890325886887",
+      "step43a_predicted_home_score": "31.83758602871994",
       "step43a_predicted_away_score": "19.051317230148932",
       "step43a_predicted_home_win_probability_uncalibrated": "0.7822159503463811"
     },
@@ -8081,11 +8081,11 @@
       "away_coach_prior_win_pct": "0.6792452830188679",
       "target_margin": "",
       "target_total": "",
-      "step43a_predicted_home_margin": "4.9703288331552145",
+      "step43a_predicted_home_margin": "4.970328833155221",
       "step43a_predicted_total": "47.4689630397003",
-      "step43a_predicted_home_score": "26.219645936427757",
-      "step43a_predicted_away_score": "21.249317103272542",
-      "step43a_predicted_home_win_probability_uncalibrated": "0.6217617948275871"
+      "step43a_predicted_home_score": "26.21964593642776",
+      "step43a_predicted_away_score": "21.24931710327254",
+      "step43a_predicted_home_win_probability_uncalibrated": "0.6217617948275872"
     },
     {
       "season": "2026",
@@ -8140,11 +8140,11 @@
       "away_coach_prior_win_pct": "0.3333333333333333",
       "target_margin": "",
       "target_total": "",
-      "step43a_predicted_home_margin": "5.3746051533072485",
+      "step43a_predicted_home_margin": "5.374605153307244",
       "step43a_predicted_total": "56.462591206702214",
-      "step43a_predicted_home_score": "30.918598180004732",
-      "step43a_predicted_away_score": "25.543993026697482",
-      "step43a_predicted_home_win_probability_uncalibrated": "0.6312214713861688"
+      "step43a_predicted_home_score": "30.91859818000473",
+      "step43a_predicted_away_score": "25.543993026697486",
+      "step43a_predicted_home_win_probability_uncalibrated": "0.6312214713861687"
     },
     {
       "season": "2026",
@@ -8199,9 +8199,9 @@
       "away_coach_prior_win_pct": "0.2916666666666667",
       "target_margin": "",
       "target_total": "",
-      "step43a_predicted_home_margin": "19.32679619132897",
-      "step43a_predicted_total": "60.91608604867064",
-      "step43a_predicted_home_score": "40.12144111999981",
+      "step43a_predicted_home_margin": "19.326796191328967",
+      "step43a_predicted_total": "60.916086048670635",
+      "step43a_predicted_home_score": "40.1214411199998",
       "step43a_predicted_away_score": "20.794644928670834",
       "step43a_predicted_home_win_probability_uncalibrated": "0.8735457166513994"
     },
@@ -8258,11 +8258,11 @@
       "away_coach_prior_win_pct": "0.7678571428571429",
       "target_margin": "",
       "target_total": "",
-      "step43a_predicted_home_margin": "5.545439041775204",
+      "step43a_predicted_home_margin": "5.545439041775211",
       "step43a_predicted_total": "49.34777118766093",
-      "step43a_predicted_home_score": "27.446605114718068",
-      "step43a_predicted_away_score": "21.901166072942864",
-      "step43a_predicted_home_win_probability_uncalibrated": "0.6351891675431626"
+      "step43a_predicted_home_score": "27.44660511471807",
+      "step43a_predicted_away_score": "21.90116607294286",
+      "step43a_predicted_home_win_probability_uncalibrated": "0.6351891675431627"
     },
     {
       "season": "2026",
@@ -8317,9 +8317,9 @@
       "away_coach_prior_win_pct": "0.3333333333333333",
       "target_margin": "",
       "target_total": "",
-      "step43a_predicted_home_margin": "6.071202305130658",
-      "step43a_predicted_total": "59.461008115773474",
-      "step43a_predicted_home_score": "32.76610521045207",
+      "step43a_predicted_home_margin": "6.071202305130653",
+      "step43a_predicted_total": "59.46100811577347",
+      "step43a_predicted_home_score": "32.76610521045206",
       "step43a_predicted_away_score": "26.694902905321406",
       "step43a_predicted_home_win_probability_uncalibrated": "0.6472836081951618"
     },
@@ -8376,7 +8376,7 @@
       "away_coach_prior_win_pct": "0.46",
       "target_margin": "",
       "target_total": "",
-      "step43a_predicted_home_margin": "6.266916871795318",
+      "step43a_predicted_home_margin": "6.266916871795316",
       "step43a_predicted_total": "45.597087481179926",
       "step43a_predicted_home_score": "25.93200217648762",
       "step43a_predicted_away_score": "19.665085304692305",
@@ -8435,11 +8435,11 @@
       "away_coach_prior_win_pct": "0.42",
       "target_margin": "",
       "target_total": "",
-      "step43a_predicted_home_margin": "14.668120829837974",
+      "step43a_predicted_home_margin": "14.668120829837967",
       "step43a_predicted_total": "52.787589701401295",
-      "step43a_predicted_home_score": "33.72785526561964",
-      "step43a_predicted_away_score": "19.05973443578166",
-      "step43a_predicted_home_win_probability_uncalibrated": "0.8125723547012319"
+      "step43a_predicted_home_score": "33.72785526561963",
+      "step43a_predicted_away_score": "19.059734435781664",
+      "step43a_predicted_home_win_probability_uncalibrated": "0.8125723547012318"
     },
     {
       "season": "2026",
@@ -8494,11 +8494,11 @@
       "away_coach_prior_win_pct": "0.6666666666666666",
       "target_margin": "",
       "target_total": "",
-      "step43a_predicted_home_margin": "-2.287073859905692",
-      "step43a_predicted_total": "54.976416478434295",
-      "step43a_predicted_home_score": "26.344671309264303",
+      "step43a_predicted_home_margin": "-2.2870738599056812",
+      "step43a_predicted_total": "54.9764164784343",
+      "step43a_predicted_home_score": "26.34467130926431",
       "step43a_predicted_away_score": "28.631745169169992",
-      "step43a_predicted_home_win_probability_uncalibrated": "0.4430710861551297"
+      "step43a_predicted_home_win_probability_uncalibrated": "0.4430710861551299"
     },
     {
       "season": "2026",
@@ -8553,11 +8553,11 @@
       "away_coach_prior_win_pct": "0.48",
       "target_margin": "",
       "target_total": "",
-      "step43a_predicted_home_margin": "-4.191337367192392",
-      "step43a_predicted_total": "57.13611148041822",
-      "step43a_predicted_home_score": "26.472387056612916",
+      "step43a_predicted_home_margin": "-4.191337367192394",
+      "step43a_predicted_total": "57.136111480418215",
+      "step43a_predicted_home_score": "26.47238705661291",
       "step43a_predicted_away_score": "30.663724423805306",
-      "step43a_predicted_home_win_probability_uncalibrated": "0.3967240579008467"
+      "step43a_predicted_home_win_probability_uncalibrated": "0.3967240579008466"
     },
     {
       "season": "2026",
@@ -8612,11 +8612,11 @@
       "away_coach_prior_win_pct": "0.5",
       "target_margin": "",
       "target_total": "",
-      "step43a_predicted_home_margin": "3.4525345350709986",
-      "step43a_predicted_total": "61.69903602585592",
+      "step43a_predicted_home_margin": "3.4525345350710017",
+      "step43a_predicted_total": "61.69903602585591",
       "step43a_predicted_home_score": "32.57578528046346",
-      "step43a_predicted_away_score": "29.12325074539246",
-      "step43a_predicted_home_win_probability_uncalibrated": "0.5854660824996049"
+      "step43a_predicted_away_score": "29.123250745392454",
+      "step43a_predicted_home_win_probability_uncalibrated": "0.585466082499605"
     },
     {
       "season": "2026",
@@ -8671,10 +8671,10 @@
       "away_coach_prior_win_pct": "",
       "target_margin": "",
       "target_total": "",
-      "step43a_predicted_home_margin": "-0.9845448020280054",
-      "step43a_predicted_total": "45.48685645548004",
-      "step43a_predicted_home_score": "22.251155826726016",
-      "step43a_predicted_away_score": "23.23570062875402",
+      "step43a_predicted_home_margin": "-0.9845448020280099",
+      "step43a_predicted_total": "45.48685645548005",
+      "step43a_predicted_home_score": "22.25115582672602",
+      "step43a_predicted_away_score": "23.23570062875403",
       "step43a_predicted_home_win_probability_uncalibrated": "0.47540624293126477"
     },
     {
@@ -8730,11 +8730,11 @@
       "away_coach_prior_win_pct": "0.46",
       "target_margin": "",
       "target_total": "",
-      "step43a_predicted_home_margin": "2.843754780597339",
-      "step43a_predicted_total": "57.224291931141835",
-      "step43a_predicted_home_score": "30.034023355869586",
-      "step43a_predicted_away_score": "27.19026857527225",
-      "step43a_predicted_home_win_probability_uncalibrated": "0.5706186026453669"
+      "step43a_predicted_home_margin": "2.843754780597327",
+      "step43a_predicted_total": "57.22429193114182",
+      "step43a_predicted_home_score": "30.034023355869575",
+      "step43a_predicted_away_score": "27.190268575272245",
+      "step43a_predicted_home_win_probability_uncalibrated": "0.5706186026453667"
     },
     {
       "season": "2026",
@@ -8789,11 +8789,11 @@
       "away_coach_prior_win_pct": "0.56",
       "target_margin": "",
       "target_total": "",
-      "step43a_predicted_home_margin": "8.74792154548144",
-      "step43a_predicted_total": "50.652213874000786",
-      "step43a_predicted_home_score": "29.700067709741113",
-      "step43a_predicted_away_score": "20.952146164259673",
-      "step43a_predicted_home_win_probability_uncalibrated": "0.705741866358756"
+      "step43a_predicted_home_margin": "8.747921545481452",
+      "step43a_predicted_total": "50.65221387400079",
+      "step43a_predicted_home_score": "29.700067709741123",
+      "step43a_predicted_away_score": "20.95214616425967",
+      "step43a_predicted_home_win_probability_uncalibrated": "0.7057418663587562"
     },
     {
       "season": "2026",
@@ -8907,11 +8907,11 @@
       "away_coach_prior_win_pct": "0.5961538461538461",
       "target_margin": "",
       "target_total": "",
-      "step43a_predicted_home_margin": "10.137067179963314",
+      "step43a_predicted_home_margin": "10.137067179963319",
       "step43a_predicted_total": "44.68588382225339",
-      "step43a_predicted_home_score": "27.41147550110835",
-      "step43a_predicted_away_score": "17.27440832114504",
-      "step43a_predicted_home_win_probability_uncalibrated": "0.7337449330641062"
+      "step43a_predicted_home_score": "27.411475501108352",
+      "step43a_predicted_away_score": "17.274408321145035",
+      "step43a_predicted_home_win_probability_uncalibrated": "0.7337449330641063"
     },
     {
       "season": "2026",
@@ -8966,11 +8966,11 @@
       "away_coach_prior_win_pct": "0.48",
       "target_margin": "",
       "target_total": "",
-      "step43a_predicted_home_margin": "15.932280034507855",
+      "step43a_predicted_home_margin": "15.932280034507851",
       "step43a_predicted_total": "60.48572122165624",
-      "step43a_predicted_home_score": "38.20900062808205",
-      "step43a_predicted_away_score": "22.276720593574193",
-      "step43a_predicted_home_win_probability_uncalibrated": "0.8310697759636982"
+      "step43a_predicted_home_score": "38.209000628082045",
+      "step43a_predicted_away_score": "22.276720593574197",
+      "step43a_predicted_home_win_probability_uncalibrated": "0.8310697759636981"
     },
     {
       "season": "2026",
@@ -9084,11 +9084,11 @@
       "away_coach_prior_win_pct": "0.6",
       "target_margin": "",
       "target_total": "",
-      "step43a_predicted_home_margin": "-11.71119646809607",
+      "step43a_predicted_home_margin": "-11.711196468096059",
       "step43a_predicted_total": "53.04237337262768",
-      "step43a_predicted_home_score": "20.665588452265805",
+      "step43a_predicted_home_score": "20.66558845226581",
       "step43a_predicted_away_score": "32.37678492036187",
-      "step43a_predicted_home_win_probability_uncalibrated": "0.23665266248028657"
+      "step43a_predicted_home_win_probability_uncalibrated": "0.23665266248028677"
     },
     {
       "season": "2026",
@@ -9143,11 +9143,11 @@
       "away_coach_prior_win_pct": "0.5576923076923077",
       "target_margin": "",
       "target_total": "",
-      "step43a_predicted_home_margin": "13.443311732805633",
-      "step43a_predicted_total": "52.54433479514774",
-      "step43a_predicted_home_score": "32.99382326397669",
+      "step43a_predicted_home_margin": "13.44331173280564",
+      "step43a_predicted_total": "52.54433479514775",
+      "step43a_predicted_home_score": "32.993823263976694",
       "step43a_predicted_away_score": "19.550511531171054",
-      "step43a_predicted_home_win_probability_uncalibrated": "0.7932012990244866"
+      "step43a_predicted_home_win_probability_uncalibrated": "0.7932012990244867"
     },
     {
       "season": "2026",
@@ -9202,11 +9202,11 @@
       "away_coach_prior_win_pct": "0.6078431372549019",
       "target_margin": "",
       "target_total": "",
-      "step43a_predicted_home_margin": "-1.1267989484041427",
-      "step43a_predicted_total": "59.232208898725375",
-      "step43a_predicted_home_score": "29.052704975160616",
-      "step43a_predicted_away_score": "30.17950392356476",
-      "step43a_predicted_home_win_probability_uncalibrated": "0.4718597941082218"
+      "step43a_predicted_home_margin": "-1.1267989484041356",
+      "step43a_predicted_total": "59.23220889872539",
+      "step43a_predicted_home_score": "29.052704975160626",
+      "step43a_predicted_away_score": "30.179503923564763",
+      "step43a_predicted_home_win_probability_uncalibrated": "0.47185979410822193"
     },
     {
       "season": "2026",
@@ -9261,11 +9261,11 @@
       "away_coach_prior_win_pct": "0.38",
       "target_margin": "",
       "target_total": "",
-      "step43a_predicted_home_margin": "5.102176507151911",
-      "step43a_predicted_total": "48.05968604457561",
-      "step43a_predicted_home_score": "26.58093127586376",
-      "step43a_predicted_away_score": "21.478754768711852",
-      "step43a_predicted_home_win_probability_uncalibrated": "0.6248574954907457"
+      "step43a_predicted_home_margin": "5.102176507151912",
+      "step43a_predicted_total": "48.05968604457562",
+      "step43a_predicted_home_score": "26.580931275863765",
+      "step43a_predicted_away_score": "21.478754768711855",
+      "step43a_predicted_home_win_probability_uncalibrated": "0.6248574954907458"
     },
     {
       "season": "2026",
@@ -9320,11 +9320,11 @@
       "away_coach_prior_win_pct": "0.5283018867924528",
       "target_margin": "",
       "target_total": "",
-      "step43a_predicted_home_margin": "-4.89699269384706",
+      "step43a_predicted_home_margin": "-4.896992693847063",
       "step43a_predicted_total": "54.321008173578676",
       "step43a_predicted_home_score": "24.712007739865808",
       "step43a_predicted_away_score": "29.60900043371287",
-      "step43a_predicted_home_win_probability_uncalibrated": "0.3799644146631125"
+      "step43a_predicted_home_win_probability_uncalibrated": "0.3799644146631124"
     },
     {
       "season": "2026",
@@ -9379,9 +9379,9 @@
       "away_coach_prior_win_pct": "0.5294117647058824",
       "target_margin": "",
       "target_total": "",
-      "step43a_predicted_home_margin": "-0.5714477784538898",
-      "step43a_predicted_total": "58.81157360529885",
-      "step43a_predicted_home_score": "29.12006291342248",
+      "step43a_predicted_home_margin": "-0.5714477784538907",
+      "step43a_predicted_total": "58.81157360529884",
+      "step43a_predicted_home_score": "29.120062913422473",
       "step43a_predicted_away_score": "29.691510691876367",
       "step43a_predicted_home_win_probability_uncalibrated": "0.48571769193073305"
     },
@@ -9438,11 +9438,11 @@
       "away_coach_prior_win_pct": "0.5882352941176471",
       "target_margin": "",
       "target_total": "",
-      "step43a_predicted_home_margin": "-2.348004153695644",
+      "step43a_predicted_home_margin": "-2.3480041536956398",
       "step43a_predicted_total": "52.31800086868102",
-      "step43a_predicted_home_score": "24.984998357492685",
-      "step43a_predicted_away_score": "27.333002511188333",
-      "step43a_predicted_home_win_probability_uncalibrated": "0.4415681017061866"
+      "step43a_predicted_home_score": "24.98499835749269",
+      "step43a_predicted_away_score": "27.33300251118833",
+      "step43a_predicted_home_win_probability_uncalibrated": "0.4415681017061867"
     },
     {
       "season": "2026",
@@ -9497,10 +9497,10 @@
       "away_coach_prior_win_pct": "0.660377358490566",
       "target_margin": "",
       "target_total": "",
-      "step43a_predicted_home_margin": "4.7165135878507956",
+      "step43a_predicted_home_margin": "4.716513587850791",
       "step43a_predicted_total": "55.18188103960255",
-      "step43a_predicted_home_score": "29.949197313726675",
-      "step43a_predicted_away_score": "25.232683725875876",
+      "step43a_predicted_home_score": "29.94919731372667",
+      "step43a_predicted_away_score": "25.23268372587588",
       "step43a_predicted_home_win_probability_uncalibrated": "0.615774536320839"
     },
     {
@@ -9556,11 +9556,11 @@
       "away_coach_prior_win_pct": "0.2708333333333333",
       "target_margin": "",
       "target_total": "",
-      "step43a_predicted_home_margin": "11.040866929539128",
-      "step43a_predicted_total": "58.64070980407047",
-      "step43a_predicted_home_score": "34.8407883668048",
+      "step43a_predicted_home_margin": "11.04086692953912",
+      "step43a_predicted_total": "58.64070980407046",
+      "step43a_predicted_home_score": "34.84078836680479",
       "step43a_predicted_away_score": "23.79992143726567",
-      "step43a_predicted_home_win_probability_uncalibrated": "0.7510250453654298"
+      "step43a_predicted_home_win_probability_uncalibrated": "0.7510250453654297"
     },
     {
       "season": "2026",
@@ -9615,11 +9615,11 @@
       "away_coach_prior_win_pct": "0.7407407407407407",
       "target_margin": "",
       "target_total": "",
-      "step43a_predicted_home_margin": "10.725761370325362",
+      "step43a_predicted_home_margin": "10.725761370325369",
       "step43a_predicted_total": "44.24896980574805",
-      "step43a_predicted_home_score": "27.487365588036702",
-      "step43a_predicted_away_score": "16.761604217711344",
-      "step43a_predicted_home_win_probability_uncalibrated": "0.7450865170817527"
+      "step43a_predicted_home_score": "27.48736558803671",
+      "step43a_predicted_away_score": "16.761604217711337",
+      "step43a_predicted_home_win_probability_uncalibrated": "0.7450865170817528"
     },
     {
       "season": "2026",
@@ -9674,11 +9674,11 @@
       "away_coach_prior_win_pct": "0.375",
       "target_margin": "",
       "target_total": "",
-      "step43a_predicted_home_margin": "3.261223560943982",
+      "step43a_predicted_home_margin": "3.2612235609439786",
       "step43a_predicted_total": "53.54790434036021",
       "step43a_predicted_home_score": "28.404563950652097",
       "step43a_predicted_away_score": "25.143340389708115",
-      "step43a_predicted_home_win_probability_uncalibrated": "0.5808155883169811"
+      "step43a_predicted_home_win_probability_uncalibrated": "0.580815588316981"
     },
     {
       "season": "2026",
@@ -9733,11 +9733,11 @@
       "away_coach_prior_win_pct": "0.7454545454545455",
       "target_margin": "",
       "target_total": "",
-      "step43a_predicted_home_margin": "-10.523040730616021",
-      "step43a_predicted_total": "47.00681984229763",
-      "step43a_predicted_home_score": "18.241889555840807",
-      "step43a_predicted_away_score": "28.764930286456824",
-      "step43a_predicted_home_win_probability_uncalibrated": "0.2587829010596703"
+      "step43a_predicted_home_margin": "-10.523040730616017",
+      "step43a_predicted_total": "47.006819842297624",
+      "step43a_predicted_home_score": "18.241889555840803",
+      "step43a_predicted_away_score": "28.76493028645682",
+      "step43a_predicted_home_win_probability_uncalibrated": "0.2587829010596704"
     },
     {
       "season": "2026",
@@ -9792,11 +9792,11 @@
       "away_coach_prior_win_pct": "0.36",
       "target_margin": "",
       "target_total": "",
-      "step43a_predicted_home_margin": "2.5156678129471204",
+      "step43a_predicted_home_margin": "2.5156678129471164",
       "step43a_predicted_total": "46.291095596301865",
-      "step43a_predicted_home_score": "24.403381704624493",
-      "step43a_predicted_away_score": "21.88771389167737",
-      "step43a_predicted_home_win_probability_uncalibrated": "0.5625621015196927"
+      "step43a_predicted_home_score": "24.40338170462449",
+      "step43a_predicted_away_score": "21.887713891677375",
+      "step43a_predicted_home_win_probability_uncalibrated": "0.5625621015196925"
     },
     {
       "season": "2026",
@@ -9910,11 +9910,11 @@
       "away_coach_prior_win_pct": "0.6792452830188679",
       "target_margin": "",
       "target_total": "",
-      "step43a_predicted_home_margin": "-16.825058833535632",
+      "step43a_predicted_home_margin": "-16.82505883353564",
       "step43a_predicted_total": "47.87441948992651",
-      "step43a_predicted_home_score": "15.524680328195439",
+      "step43a_predicted_home_score": "15.524680328195435",
       "step43a_predicted_away_score": "32.34973916173107",
-      "step43a_predicted_home_win_probability_uncalibrated": "0.1567639336807622"
+      "step43a_predicted_home_win_probability_uncalibrated": "0.15676393368076208"
     },
     {
       "season": "2026",
@@ -9969,9 +9969,9 @@
       "away_coach_prior_win_pct": "0.5490196078431373",
       "target_margin": "",
       "target_total": "",
-      "step43a_predicted_home_margin": "27.20467630793173",
-      "step43a_predicted_total": "53.13046662854475",
-      "step43a_predicted_home_score": "40.16757146823824",
+      "step43a_predicted_home_margin": "27.204676307931738",
+      "step43a_predicted_total": "53.13046662854476",
+      "step43a_predicted_home_score": "40.16757146823825",
       "step43a_predicted_away_score": "12.96289516030651",
       "step43a_predicted_home_win_probability_uncalibrated": "0.9382236431901719"
     },
@@ -10028,11 +10028,11 @@
       "away_coach_prior_win_pct": "0.6792452830188679",
       "target_margin": "",
       "target_total": "",
-      "step43a_predicted_home_margin": "-3.0951843470683835",
+      "step43a_predicted_home_margin": "-3.0951843470683817",
       "step43a_predicted_total": "52.60013251160917",
       "step43a_predicted_home_score": "24.752474082270393",
       "step43a_predicted_away_score": "27.847658429338775",
-      "step43a_predicted_home_win_probability_uncalibrated": "0.42323228784344785"
+      "step43a_predicted_home_win_probability_uncalibrated": "0.42323228784344796"
     },
     {
       "season": "2026",
@@ -10146,11 +10146,11 @@
       "away_coach_prior_win_pct": "0.52",
       "target_margin": "",
       "target_total": "",
-      "step43a_predicted_home_margin": "0.832624186329082",
+      "step43a_predicted_home_margin": "0.8326241863290704",
       "step43a_predicted_total": "49.85039186833156",
-      "step43a_predicted_home_score": "25.341508027330324",
-      "step43a_predicted_away_score": "24.50888384100124",
-      "step43a_predicted_home_win_probability_uncalibrated": "0.5208035874148735"
+      "step43a_predicted_home_score": "25.341508027330317",
+      "step43a_predicted_away_score": "24.508883841001246",
+      "step43a_predicted_home_win_probability_uncalibrated": "0.5208035874148732"
     },
     {
       "season": "2026",
@@ -10205,11 +10205,11 @@
       "away_coach_prior_win_pct": "0.7307692307692307",
       "target_margin": "",
       "target_total": "",
-      "step43a_predicted_home_margin": "-10.337416361012085",
+      "step43a_predicted_home_margin": "-10.337416361012092",
       "step43a_predicted_total": "48.338598414877225",
       "step43a_predicted_home_score": "19.000591026932568",
       "step43a_predicted_away_score": "29.338007387944657",
-      "step43a_predicted_home_win_probability_uncalibrated": "0.26235935326737836"
+      "step43a_predicted_home_win_probability_uncalibrated": "0.26235935326737825"
     },
     {
       "season": "2026",
@@ -10264,11 +10264,11 @@
       "away_coach_prior_win_pct": "0.44",
       "target_margin": "",
       "target_total": "",
-      "step43a_predicted_home_margin": "7.408483467803075",
+      "step43a_predicted_home_margin": "7.408483467803071",
       "step43a_predicted_total": "53.837163496181454",
       "step43a_predicted_home_score": "30.622823481992263",
       "step43a_predicted_away_score": "23.21434001418919",
-      "step43a_predicted_home_win_probability_uncalibrated": "0.6771813384597413"
+      "step43a_predicted_home_win_probability_uncalibrated": "0.6771813384597412"
     },
     {
       "season": "2026",
@@ -10323,11 +10323,11 @@
       "away_coach_prior_win_pct": "0.47058823529411764",
       "target_margin": "",
       "target_total": "",
-      "step43a_predicted_home_margin": "2.8259828498681276",
-      "step43a_predicted_total": "47.451030726692245",
-      "step43a_predicted_home_score": "25.138506788280186",
-      "step43a_predicted_away_score": "22.31252393841206",
-      "step43a_predicted_home_win_probability_uncalibrated": "0.5701831126753293"
+      "step43a_predicted_home_margin": "2.825982849868124",
+      "step43a_predicted_total": "47.45103072669225",
+      "step43a_predicted_home_score": "25.13850678828019",
+      "step43a_predicted_away_score": "22.312523938412063",
+      "step43a_predicted_home_win_probability_uncalibrated": "0.5701831126753292"
     },
     {
       "season": "2026",
@@ -10382,7 +10382,7 @@
       "away_coach_prior_win_pct": "0.48",
       "target_margin": "",
       "target_total": "",
-      "step43a_predicted_home_margin": "12.211115329229006",
+      "step43a_predicted_home_margin": "12.211115329229003",
       "step43a_predicted_total": "54.15777059346631",
       "step43a_predicted_home_score": "33.184442961347656",
       "step43a_predicted_away_score": "20.973327632118654",
@@ -10500,11 +10500,11 @@
       "away_coach_prior_win_pct": "0.5294117647058824",
       "target_margin": "",
       "target_total": "",
-      "step43a_predicted_home_margin": "-6.765265114774594",
+      "step43a_predicted_home_margin": "-6.76526511477459",
       "step43a_predicted_total": "45.73573777594891",
       "step43a_predicted_home_score": "19.48523633058716",
       "step43a_predicted_away_score": "26.250501445361753",
-      "step43a_predicted_home_win_probability_uncalibrated": "0.3370369896327966"
+      "step43a_predicted_home_win_probability_uncalibrated": "0.33703698963279666"
     },
     {
       "season": "2026",
@@ -10559,7 +10559,7 @@
       "away_coach_prior_win_pct": "0.6274509803921569",
       "target_margin": "",
       "target_total": "",
-      "step43a_predicted_home_margin": "6.329648190364598",
+      "step43a_predicted_home_margin": "6.329648190364595",
       "step43a_predicted_total": "58.168954362121056",
       "step43a_predicted_home_score": "32.249301276242825",
       "step43a_predicted_away_score": "25.91965308587823",
@@ -10618,10 +10618,10 @@
       "away_coach_prior_win_pct": "0.4583333333333333",
       "target_margin": "",
       "target_total": "",
-      "step43a_predicted_home_margin": "2.1145960446609804",
-      "step43a_predicted_total": "53.633577391316074",
-      "step43a_predicted_home_score": "27.874086717988526",
-      "step43a_predicted_away_score": "25.759490673327548",
+      "step43a_predicted_home_margin": "2.1145960446609786",
+      "step43a_predicted_total": "53.63357739131607",
+      "step43a_predicted_home_score": "27.874086717988522",
+      "step43a_predicted_away_score": "25.759490673327544",
       "step43a_predicted_home_win_probability_uncalibrated": "0.5526687894248329"
     },
     {
@@ -10677,11 +10677,11 @@
       "away_coach_prior_win_pct": "0.7037037037037037",
       "target_margin": "",
       "target_total": "",
-      "step43a_predicted_home_margin": "-19.359767741365356",
-      "step43a_predicted_total": "55.07148366073934",
-      "step43a_predicted_home_score": "17.855857959686993",
+      "step43a_predicted_home_margin": "-19.35976774136536",
+      "step43a_predicted_total": "55.07148366073933",
+      "step43a_predicted_home_score": "17.855857959686986",
       "step43a_predicted_away_score": "37.215625701052346",
-      "step43a_predicted_home_win_probability_uncalibrated": "0.12609051610430597"
+      "step43a_predicted_home_win_probability_uncalibrated": "0.12609051610430594"
     },
     {
       "season": "2026",
@@ -10737,9 +10737,9 @@
       "target_margin": "",
       "target_total": "",
       "step43a_predicted_home_margin": "9.518367501374534",
-      "step43a_predicted_total": "54.62840512731501",
+      "step43a_predicted_total": "54.62840512731502",
       "step43a_predicted_home_score": "32.07338631434477",
-      "step43a_predicted_away_score": "22.55501881297024",
+      "step43a_predicted_away_score": "22.555018812970243",
       "step43a_predicted_home_win_probability_uncalibrated": "0.7214844132503209"
     },
     {
@@ -10795,11 +10795,11 @@
       "away_coach_prior_win_pct": "0.7962962962962963",
       "target_margin": "",
       "target_total": "",
-      "step43a_predicted_home_margin": "-18.934669369013633",
+      "step43a_predicted_home_margin": "-18.934669369013637",
       "step43a_predicted_total": "51.071863743579904",
-      "step43a_predicted_home_score": "16.068597187283135",
-      "step43a_predicted_away_score": "35.003266556296765",
-      "step43a_predicted_home_win_probability_uncalibrated": "0.13084967663559427"
+      "step43a_predicted_home_score": "16.06859718728313",
+      "step43a_predicted_away_score": "35.00326655629677",
+      "step43a_predicted_home_win_probability_uncalibrated": "0.13084967663559421"
     },
     {
       "season": "2026",
@@ -10854,11 +10854,11 @@
       "away_coach_prior_win_pct": "0.3",
       "target_margin": "",
       "target_total": "",
-      "step43a_predicted_home_margin": "24.058615123441935",
+      "step43a_predicted_home_margin": "24.05861512344193",
       "step43a_predicted_total": "57.1588205600966",
-      "step43a_predicted_home_score": "40.60871784176927",
-      "step43a_predicted_away_score": "16.55010271832733",
-      "step43a_predicted_home_win_probability_uncalibrated": "0.9172731824591533"
+      "step43a_predicted_home_score": "40.60871784176926",
+      "step43a_predicted_away_score": "16.550102718327338",
+      "step43a_predicted_home_win_probability_uncalibrated": "0.9172731824591531"
     },
     {
       "season": "2026",
@@ -10913,11 +10913,11 @@
       "away_coach_prior_win_pct": "0.660377358490566",
       "target_margin": "",
       "target_total": "",
-      "step43a_predicted_home_margin": "7.17609772717586",
+      "step43a_predicted_home_margin": "7.176097727175868",
       "step43a_predicted_total": "51.860669558657136",
-      "step43a_predicted_home_score": "29.518383642916497",
-      "step43a_predicted_away_score": "22.34228591574064",
-      "step43a_predicted_home_win_probability_uncalibrated": "0.6720804557317025"
+      "step43a_predicted_home_score": "29.518383642916504",
+      "step43a_predicted_away_score": "22.342285915740632",
+      "step43a_predicted_home_win_probability_uncalibrated": "0.6720804557317027"
     },
     {
       "season": "2026",
@@ -10973,9 +10973,9 @@
       "target_margin": "",
       "target_total": "",
       "step43a_predicted_home_margin": "24.92521593730845",
-      "step43a_predicted_total": "52.8016550974903",
-      "step43a_predicted_home_score": "38.863435517399374",
-      "step43a_predicted_away_score": "13.938219580090923",
+      "step43a_predicted_total": "52.80165509749029",
+      "step43a_predicted_home_score": "38.86343551739937",
+      "step43a_predicted_away_score": "13.93821958009092",
       "step43a_predicted_home_win_probability_uncalibrated": "0.9236158901572232"
     },
     {
@@ -11031,11 +11031,11 @@
       "away_coach_prior_win_pct": "0.6538461538461539",
       "target_margin": "",
       "target_total": "",
-      "step43a_predicted_home_margin": "-0.9370938705922178",
+      "step43a_predicted_home_margin": "-0.9370938705922169",
       "step43a_predicted_total": "52.872453934603726",
-      "step43a_predicted_home_score": "25.967680032005752",
-      "step43a_predicted_away_score": "26.904773902597974",
-      "step43a_predicted_home_win_probability_uncalibrated": "0.47658978203178975"
+      "step43a_predicted_home_score": "25.967680032005756",
+      "step43a_predicted_away_score": "26.90477390259797",
+      "step43a_predicted_home_win_probability_uncalibrated": "0.47658978203178987"
     },
     {
       "season": "2026",
@@ -11090,11 +11090,11 @@
       "away_coach_prior_win_pct": "0.5961538461538461",
       "target_margin": "",
       "target_total": "",
-      "step43a_predicted_home_margin": "10.256878168036597",
+      "step43a_predicted_home_margin": "10.2568781680366",
       "step43a_predicted_total": "54.204885437019584",
       "step43a_predicted_home_score": "32.23088180252809",
-      "step43a_predicted_away_score": "21.974003634491496",
-      "step43a_predicted_home_win_probability_uncalibrated": "0.736079035515563"
+      "step43a_predicted_away_score": "21.974003634491492",
+      "step43a_predicted_home_win_probability_uncalibrated": "0.7360790355155631"
     },
     {
       "season": "2026",
@@ -11149,11 +11149,11 @@
       "away_coach_prior_win_pct": "0.40816326530612246",
       "target_margin": "",
       "target_total": "",
-      "step43a_predicted_home_margin": "-1.5598578656897688",
-      "step43a_predicted_total": "55.2148433215564",
-      "step43a_predicted_home_score": "26.827492727933315",
-      "step43a_predicted_away_score": "28.387350593623086",
-      "step43a_predicted_home_win_probability_uncalibrated": "0.46108243182299935"
+      "step43a_predicted_home_margin": "-1.559857865689775",
+      "step43a_predicted_total": "55.214843321556394",
+      "step43a_predicted_home_score": "26.82749272793331",
+      "step43a_predicted_away_score": "28.387350593623083",
+      "step43a_predicted_home_win_probability_uncalibrated": "0.46108243182299924"
     },
     {
       "season": "2026",
@@ -11208,11 +11208,11 @@
       "away_coach_prior_win_pct": "0.125",
       "target_margin": "",
       "target_total": "",
-      "step43a_predicted_home_margin": "2.8771918141944406",
-      "step43a_predicted_total": "53.20014600932203",
-      "step43a_predicted_home_score": "28.038668911758236",
+      "step43a_predicted_home_margin": "2.877191814194436",
+      "step43a_predicted_total": "53.200146009322026",
+      "step43a_predicted_home_score": "28.03866891175823",
       "step43a_predicted_away_score": "25.161477097563797",
-      "step43a_predicted_home_win_probability_uncalibrated": "0.5714376593149297"
+      "step43a_predicted_home_win_probability_uncalibrated": "0.5714376593149296"
     },
     {
       "season": "2026",
@@ -11267,11 +11267,11 @@
       "away_coach_prior_win_pct": "0.8181818181818182",
       "target_margin": "",
       "target_total": "",
-      "step43a_predicted_home_margin": "10.123255648032249",
+      "step43a_predicted_home_margin": "10.123255648032256",
       "step43a_predicted_total": "48.36588437909488",
-      "step43a_predicted_home_score": "29.244570013563564",
-      "step43a_predicted_away_score": "19.121314365531315",
-      "step43a_predicted_home_win_probability_uncalibrated": "0.7334750193144502"
+      "step43a_predicted_home_score": "29.244570013563568",
+      "step43a_predicted_away_score": "19.121314365531312",
+      "step43a_predicted_home_win_probability_uncalibrated": "0.7334750193144504"
     },
     {
       "season": "2026",
@@ -11326,7 +11326,7 @@
       "away_coach_prior_win_pct": "0.46153846153846156",
       "target_margin": "",
       "target_total": "",
-      "step43a_predicted_home_margin": "4.048335798957634",
+      "step43a_predicted_home_margin": "4.048335798957636",
       "step43a_predicted_total": "53.29577564637782",
       "step43a_predicted_home_score": "28.67205572266773",
       "step43a_predicted_away_score": "24.62371992371009",
@@ -11385,7 +11385,7 @@
       "away_coach_prior_win_pct": "0.46153846153846156",
       "target_margin": "",
       "target_total": "",
-      "step43a_predicted_home_margin": "-0.2852933837150342",
+      "step43a_predicted_home_margin": "-0.28529338371503243",
       "step43a_predicted_total": "53.67129679830247",
       "step43a_predicted_home_score": "26.693001707293718",
       "step43a_predicted_away_score": "26.978295091008754",
@@ -11503,11 +11503,11 @@
       "away_coach_prior_win_pct": "0.40540540540540543",
       "target_margin": "",
       "target_total": "",
-      "step43a_predicted_home_margin": "11.716515865129487",
+      "step43a_predicted_home_margin": "11.716515865129495",
       "step43a_predicted_total": "47.48897206772505",
-      "step43a_predicted_home_score": "29.60274396642727",
-      "step43a_predicted_away_score": "17.88622810129778",
-      "step43a_predicted_home_win_probability_uncalibrated": "0.7634434179972066"
+      "step43a_predicted_home_score": "29.602743966427273",
+      "step43a_predicted_away_score": "17.886228101297778",
+      "step43a_predicted_home_win_probability_uncalibrated": "0.7634434179972067"
     },
     {
       "season": "2026",
@@ -11562,11 +11562,11 @@
       "away_coach_prior_win_pct": "0.6481481481481481",
       "target_margin": "",
       "target_total": "",
-      "step43a_predicted_home_margin": "-0.22003501574955475",
-      "step43a_predicted_total": "51.850334347759684",
-      "step43a_predicted_home_score": "25.815149666005066",
-      "step43a_predicted_away_score": "26.035184681754618",
-      "step43a_predicted_home_win_probability_uncalibrated": "0.4944993465347892"
+      "step43a_predicted_home_margin": "-0.2200350157495503",
+      "step43a_predicted_total": "51.85033434775969",
+      "step43a_predicted_home_score": "25.81514966600507",
+      "step43a_predicted_away_score": "26.03518468175462",
+      "step43a_predicted_home_win_probability_uncalibrated": "0.49449934653478933"
     },
     {
       "season": "2026",
@@ -11621,11 +11621,11 @@
       "away_coach_prior_win_pct": "0.6585365853658537",
       "target_margin": "",
       "target_total": "",
-      "step43a_predicted_home_margin": "-5.887629658335196",
-      "step43a_predicted_total": "57.7292097020884",
-      "step43a_predicted_home_score": "25.920790021876602",
-      "step43a_predicted_away_score": "31.808419680211795",
-      "step43a_predicted_home_win_probability_uncalibrated": "0.35691873769490234"
+      "step43a_predicted_home_margin": "-5.887629658335192",
+      "step43a_predicted_total": "57.729209702088404",
+      "step43a_predicted_home_score": "25.920790021876606",
+      "step43a_predicted_away_score": "31.8084196802118",
+      "step43a_predicted_home_win_probability_uncalibrated": "0.35691873769490245"
     },
     {
       "season": "2026",
@@ -11680,11 +11680,11 @@
       "away_coach_prior_win_pct": "0.20408163265306123",
       "target_margin": "",
       "target_total": "",
-      "step43a_predicted_home_margin": "14.669137436193928",
+      "step43a_predicted_home_margin": "14.669137436193925",
       "step43a_predicted_total": "52.08618463846027",
-      "step43a_predicted_home_score": "33.3776610373271",
-      "step43a_predicted_away_score": "18.70852360113317",
-      "step43a_predicted_home_win_probability_uncalibrated": "0.8125878369739055"
+      "step43a_predicted_home_score": "33.377661037327094",
+      "step43a_predicted_away_score": "18.708523601133173",
+      "step43a_predicted_home_win_probability_uncalibrated": "0.8125878369739052"
     },
     {
       "season": "2026",
@@ -11739,11 +11739,11 @@
       "away_coach_prior_win_pct": "",
       "target_margin": "",
       "target_total": "",
-      "step43a_predicted_home_margin": "7.355888907373076",
-      "step43a_predicted_total": "51.12848005474625",
+      "step43a_predicted_home_margin": "7.355888907373064",
+      "step43a_predicted_total": "51.12848005474626",
       "step43a_predicted_home_score": "29.242184481059663",
-      "step43a_predicted_away_score": "21.886295573686585",
-      "step43a_predicted_home_win_probability_uncalibrated": "0.676030515972146"
+      "step43a_predicted_away_score": "21.8862955736866",
+      "step43a_predicted_home_win_probability_uncalibrated": "0.6760305159721457"
     },
     {
       "season": "2026",
@@ -11798,11 +11798,11 @@
       "away_coach_prior_win_pct": "0.6",
       "target_margin": "",
       "target_total": "",
-      "step43a_predicted_home_margin": "-0.1675443518562596",
+      "step43a_predicted_home_margin": "-0.1675443518562454",
       "step43a_predicted_total": "55.415432371092",
-      "step43a_predicted_home_score": "27.623944009617873",
-      "step43a_predicted_away_score": "27.79148836147413",
-      "step43a_predicted_home_win_probability_uncalibrated": "0.49581148918325774"
+      "step43a_predicted_home_score": "27.62394400961788",
+      "step43a_predicted_away_score": "27.791488361474123",
+      "step43a_predicted_home_win_probability_uncalibrated": "0.4958114891832582"
     }
   ]
 }
