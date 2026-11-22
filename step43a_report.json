@@ -1,6 +1,6 @@
 {
   "step": "43A",
-  "created_utc": "2026-11-21T17:06:13.378032+00:00",
+  "created_utc": "2026-11-22T17:36:39.017743+00:00",
   "model_scope": "2025-2026 only",
   "ridge_alpha": 10.0,
   "recency_half_life_seasons": 1.5,
@@ -26,7 +26,7 @@
     "talent_match_rate_2025": 0.9719934102141681,
     "talent_match_rate_2026": 1.0,
     "coach_match_rate_2025": 0.9719934102141681,
-    "coach_match_rate_2026": 0.9736842105263158,
+    "coach_match_rate_2026": 0.9739837398373984,
     "features": [
       "roster_talent",
       "coach_prior_win_pct"
@@ -35,9 +35,9 @@
   },
   "production": {
     "eligible_2025_completed_games": 607,
-    "eligible_2026_completed_games": 488,
-    "production_training_games": 1095,
-    "eligible_upcoming_2026_games": 120,
+    "eligible_2026_completed_games": 542,
+    "production_training_games": 1149,
+    "eligible_upcoming_2026_games": 73,
     "margin_features_used": [
       "adj_off_epa",
       "adj_def_epa",
