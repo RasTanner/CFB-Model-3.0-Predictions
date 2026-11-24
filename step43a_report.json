@@ -1,6 +1,6 @@
 {
   "step": "43A",
-  "created_utc": "2026-11-23T21:53:25.547744+00:00",
+  "created_utc": "2026-11-24T20:29:34.967395+00:00",
   "model_scope": "2025-2026 only",
   "ridge_alpha": 10.0,
   "recency_half_life_seasons": 1.5,
