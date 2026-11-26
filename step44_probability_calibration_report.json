@@ -10,9 +10,9 @@
   "methods": {
     "raw_sigmoid": {
       "games": 206,
-      "brier_score": 0.1838117348310772,
-      "log_loss": 0.5485912948298174,
-      "accuracy": 0.7378640776699029
+      "brier_score": 0.1837983162914217,
+      "log_loss": 0.5481901481651359,
+      "accuracy": 0.7572815533980582
     },
     "historical_home_rate": {
       "games": 206,
@@ -22,15 +22,15 @@
     },
     "platt_logistic": {
       "games": 206,
-      "brier_score": 0.18509202650380455,
-      "log_loss": 0.5527061359579706,
-      "accuracy": 0.7330097087378641
+      "brier_score": 0.18506412495733518,
+      "log_loss": 0.5515961900590527,
+      "accuracy": 0.7572815533980582
     },
     "isotonic": {
       "games": 206,
-      "brier_score": 0.1854827579696024,
-      "log_loss": 0.606168360944588,
-      "accuracy": 0.7475728155339806
+      "brier_score": 0.18389537171448003,
+      "log_loss": 0.6185453974177942,
+      "accuracy": 0.7378640776699029
     }
   },
   "selected_method": null,
